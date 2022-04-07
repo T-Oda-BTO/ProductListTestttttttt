@@ -1,98 +1,33 @@
-# -ADXXXXX-Template
+# ProductList
+各製品HP・サポートページへのリンク一覧・検索用ページです。  
+製品の型番もしくは製品名を検索し、製品HPやサポート情報をお探しください。  
+(Ctrl + F などのページ内検索を使うと便利です。)  
+#### 各サポートページからのファイルダウンロード方法は[こちら](https://bit-trade-one.co.jp/h2gh/)の記事で紹介しています。
 
-## ここに見出し
+---
 
-![タイトル画像のURLを右のカッコに]()
+## 目次
+- [BitTradeOneブランド モジュール,タッチデバイス等 ](#bittradeoneブランド-モジュールタッチデバイス等)
+- [雑誌連動製品（CQ出版,技術評論社,日経BP,シェルスクリプトマガジン,ラジオライフ等）](#雑誌連動製品cq出版技術評論社日経bpシェルスクリプトマガジンラジオライフ等)
+- [デバイス製品 USB2BTPやUSBCableChecker2など](#デバイス製品-usb2btpやusbcablechecker2など)
+- [自作キーボード関連等](#自作キーボード関連等)
+- [IoT製品,Raspberry Pi関連,ゼロワンシリーズ等](#iot製品raspberry-pi関連ゼロワンシリーズ等)
 
-「●●●●●」はほにゃららするためのなんちゃらボード。  
-この製品を使用する事でもにょもにょがぺけぺけできる。  
-
-<!--
-改行する場合、文末に半角スペース2個を置く
-
-リンクの貼り方
-[リンクになる文章](URL)
-exp.
-[Google](https://www.google.co.jp/)
-
-画像の貼り方
-![画像が読めない時に表示されるテキスト](画像のURL)
-exp.
-![bit-trade-one](https://bit-trade-one.co.jp/wp/wp-content/uploads/tcd-w/logo.png)
-※先頭の"!"を忘れないこと
-
-
-見出しの付け方
-
-# 見出し1
-
-## 見出し1-1
-
-###　見出し1-2
-
-# 見出し2
-
-"#"を増やすと下位の見出しになる
-
-
+<!--mdでページ内リンクを貼る際はこちらの記事がとてもわかりやすいので必読です！https://qiita.com/hennin/items/7ee58dd7d7c013a23be7#%E5%8D%8A%E8%A7%92%E8%A8%98%E5%8F%B7%E3%81%AF%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%83%90%E3%83%BC_%E3%81%A8%E3%83%8F%E3%82%A4%E3%83%95%E3%83%B3-%E4%BB%A5%E5%A4%96%E7%9C%81%E7%95%A5
 -->
 
-
-<!--
-以下のURL内の"-ADXXXXX-Template"をリポジトリ名/ファイル名に変更 
-
-製品によって無い情報(ライブラリへのリンクなど)は削除すること
-
-ソフトの使い方、ライブラリの使い方などがWordなどである場合は、
-各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
--->
-
-# [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
-
-## [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
-
-## [アプリケーションソフトウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
-
-## [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
-
-## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
-
-### [ライブラリ](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Library)  
-
-### [サンプルコード](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Sample)  
-
-### [アプリケーションソース](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App_source/)  
-
-### [ファームウェアソース](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware_source/)
-
-### [基板図](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/Dimensions/-ADXXXXX-Template-Dimensions.pdf)
-
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
-
-### [部品表](https://github.com/bit-trade-one-ADXXXXX-Templateo/blob/master/Partslist/-ADXXXXX-Template-Partslist.md)
+---
 
 
-## 作例
-
-[BTO公式]()  
-[Twitter作例1]()  
-[Twitter作例2]()  
-[ブログ作例1]()  
-[ブログ作例1]()  
-
-## 雑誌掲載情報
-
-[ラズパイマガジンXX年Y月号]()  
-[Pc Watch]()
-
-## 製品仕様
-    【対応OS】Windows7以降
-    【サイズ】W16×D20×H5mm
-    【重量】約1g
-    【入力点数】12(デジタル)
-    【コネクタ】USBマイクロB
-    【電源】5V (USBマイクロB)
-    【使用温度】0 ～ 40℃（結露なきこと）
-    【保証期間】 1年間
-    【付属品】保証書 1部
-    【生産国】Made in Japan
+## BitTradeOneブランド モジュール,タッチデバイス等
+[トップへ戻る](#productlist)
+  
+---
+| ADRVMIC | ADACHACY | 
+| :--- | :--- |
+|<a href="https://bit-trade-one.co.jp/adrvmic/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/12/2d0d67c312d1b9bc41fbb87ea2492977.jpg" width="360px"> <br>製品HP</a><br>[サポートサイト]() | <a href="https://bit-trade-one.co.jp/hapstak/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/09/hapStak-Bn-BIG.png" width="360px"> <br>製品HP</a><br>[サポートサイト]()<br>対応機器:M5ATOM、ArduinoMRK|
+| AD00010 | AD00018 | 
+|<a href="https://bit-trade-one.co.jp/product/module/ad00010/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/517ef8cc91ae0376389ee049abca5934.png" width="360px"> <br>製品HP</a><br>[サポートサイト]()| <a href="https://bit-trade-one.co.jp/product/module/ad00018/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/ce3a1cb1fd6c72f79f2a050123174e51.png" width="360px"> <br>製品HP</a><br>[サポートサイト]() |
+| ADRVMIC | ADRVMIC | 
+|<a href="https://bit-trade-one.co.jp/adrvmic/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/12/2d0d67c312d1b9bc41fbb87ea2492977.jpg" width="360px"> <br>製品HP</a><br>[サポートサイト]()| <a href="https://bit-trade-one.co.jp/adrvmic/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/12/2d0d67c312d1b9bc41fbb87ea2492977.jpg" width="360px"> <br>製品HP</a><br>[サポートサイト]() |
+---
