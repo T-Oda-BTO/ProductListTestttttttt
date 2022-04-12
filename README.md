@@ -22,7 +22,7 @@
 ## BitTradeOneブランド モジュール,タッチデバイス等
 [トップへ戻る](#productlist)
   
-| <a id="ADRVMIC">ADRVMIC</a> | <a id="ADACHACY">ADACHACY</a> | 
+| <a id="ADRVMIC">ADRVMIC</a> <br>REVIVE USB †MICRO†Rev.2 | <a id="ADACHACY">ADACHACY</a> <br>hapStak | 
 | :--- | :--- |
 |<a href="https://bit-trade-one.co.jp/adrvmic/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/12/2d0d67c312d1b9bc41fbb87ea2492977.jpg" width="360px"> <br>製品HP</a><br>[サポートサイト]() | <a href="https://bit-trade-one.co.jp/hapstak/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/09/hapStak-Bn-BIG.png" width="360px"> <br>製品HP</a><br>[サポートサイト]()<br>対応機器:M5ATOM、ArduinoMRK|
 | <a id="AD00010">AD00010</a> | <a id="AD00018">AD00018</a> | 
