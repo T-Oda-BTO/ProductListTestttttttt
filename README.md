@@ -32,7 +32,7 @@
 
 ---
 
-| 型番 | 製品名 | リンク | 対応機器仕様 | 設定ツール |
+| 型番 | 製品名 | リンク | 対応機器・仕様 | 設定ツール |
 | --- | --- | --- | --- | --- |
 | <a id="AD00001">AD00001</a> | 自動車用デジタルスピードメータ/青（キット）  |[製品HP](https://bit-trade-one.co.jp/product/assemblydisk/ad00001/) / [サポート](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter)  | 単独動作 | - |
 | <a id="AD00002">AD00002</a> | 静電容量式タッチセンサモジュール  | [製品HP](https://bit-trade-one.co.jp/product/module/ad00002/) / [サポート](https://bit-trade-one.co.jp/product/module/ad00002/) | 単独動作 | - |
