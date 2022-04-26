@@ -29,3 +29,22 @@
 |<a href="https://bit-trade-one.co.jp/product/module/ad00010/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/517ef8cc91ae0376389ee049abca5934.png" width="360px"> <br>製品HP</a><br>[サポートサイト]()| <a href="https://bit-trade-one.co.jp/product/module/ad00018/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/ce3a1cb1fd6c72f79f2a050123174e51.png" width="360px"> <br>製品HP</a><br>[サポートサイト]() |
 | <a id="ADRVMIC">ADRVMIC</a>  | <a id="ADRVMIC">ADRVMIC</a>  | 
 |<a href="https://bit-trade-one.co.jp/adrvmic/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/12/2d0d67c312d1b9bc41fbb87ea2492977.jpg" width="360px"> <br>製品HP</a><br>[サポートサイト]()| <a href="https://bit-trade-one.co.jp/adrvmic/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/12/2d0d67c312d1b9bc41fbb87ea2492977.jpg" width="360px"> <br>製品HP</a><br>[サポートサイト]() |
+
+---
+
+| 型番 | 製品名 | リンク | 対応機器 | 設定ツール |
+| --- | --- | --- | --- | --- |
+| <a id="AD00001">AD00001</a> | 自動車用デジタルスピードメータ/青（キット）  |[製品HP](https://bit-trade-one.co.jp/product/assemblydisk/ad00001/) / [サポート](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter)  | スタンドアロン | - |
+| <a id="AD00002">AD00002</a> | 静電容量式タッチセンサモジュール  | [製品HP](https://bit-trade-one.co.jp/product/module/ad00002/) / [サポート](https://bit-trade-one.co.jp/product/module/ad00002/) | スタンドアロン | - |
+|<a id="ADRVMIC">ADRVMIC2</a>| REVIVE USB †MICRO†Rev.2 | [製品HP](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2) / [サポート](https://bit-trade-one.co.jp/adrvmic/) | Windows7~11,iOS(暫定版) | Windows7~11,iOS(暫定版)|
+
+---
+
+---
+
+| 型番 | 製品名 | リンク | 対応機器 | 設定ツール |
+| --- | --- | --- | --- | --- |
+| <a id="ADCQ1611AKRE">ADCQ1611AKRE</a> | PICスパコン ラズベリーパイ拡張モジュール PiCCASO キット  |[製品HP](https://bit-trade-one.co.jp/product/module/adcq1611ap/) / [サポート](https://github.com/bit-trade-one/ADCQ1611AP_CQ_PICCASO)  | Raspberry Pi 2 Model B／Pi 3 Model B | - |
+
+
+---
