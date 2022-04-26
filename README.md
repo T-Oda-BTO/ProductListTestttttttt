@@ -21,7 +21,7 @@
 
 ## BitTradeOneブランド モジュール,タッチデバイス等
 [トップへ戻る](#productlist)
-  
+  <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 | <a id="ADRVMIC">ADRVMIC</a> <br>REVIVE USB †MICRO†Rev.2 | <a id="ADACHACY">ADACHACY</a> <br>hapStak | 
 | :--- | :--- |
 |<a href="https://bit-trade-one.co.jp/adrvmic/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/12/2d0d67c312d1b9bc41fbb87ea2492977.jpg" width="360px"> <br>製品HP</a><br>[サポートサイト]() | <a href="https://bit-trade-one.co.jp/hapstak/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/09/hapStak-Bn-BIG.png" width="360px"> <br>製品HP</a><br>[サポートサイト]()<br>対応機器:M5ATOM、ArduinoMRK|
@@ -29,6 +29,7 @@
 |<a href="https://bit-trade-one.co.jp/product/module/ad00010/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/517ef8cc91ae0376389ee049abca5934.png" width="360px"> <br>製品HP</a><br>[サポートサイト]()| <a href="https://bit-trade-one.co.jp/product/module/ad00018/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/ce3a1cb1fd6c72f79f2a050123174e51.png" width="360px"> <br>製品HP</a><br>[サポートサイト]() |
 | <a id="ADRVMIC">ADRVMIC</a>  | <a id="ADRVMIC">ADRVMIC</a>  | 
 |<a href="https://bit-trade-one.co.jp/adrvmic/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/12/2d0d67c312d1b9bc41fbb87ea2492977.jpg" width="360px"> <br>製品HP</a><br>[サポートサイト]()| <a href="https://bit-trade-one.co.jp/adrvmic/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/12/2d0d67c312d1b9bc41fbb87ea2492977.jpg" width="360px"> <br>製品HP</a><br>[サポートサイト]() |
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 
 ---
 
@@ -44,9 +45,22 @@
 
 ---
 
-| 型番 | 製品名 | リンク | 対応機器 | 設定ツール |
+| 型番 | 製品名 | リンク | 対応機器・仕様 | 設定ツール |
 | --- | --- | --- | --- | --- |
 | <a id="ADCQ1611AKRE">ADCQ1611AKRE</a> | PICスパコン ラズベリーパイ拡張モジュール PiCCASO キット  |[製品HP](https://bit-trade-one.co.jp/product/module/adcq1611ap/) / [サポート](https://github.com/bit-trade-one/ADCQ1611AP_CQ_PICCASO)  | Raspberry Pi 2 Model B／Pi 3 Model B | - |
 
 
 ---
+| 型番 | 製品名 | リンク | 対応機器・仕様 | 設定ツール |
+| --- | --- | --- | --- | --- |
+| <a id="ADU2B02P">ADU2B02P</a> | USB2BT PLUS | [製品HP](https://bit-trade-one.co.jp/product/module/usb2btp/) /<br> [サポート](https://github.com/bit-trade-one/ADU2B02P_USB2BT_Plus) | 【入力機器】<br>iOS,android,Windows7以降,MAC OS X<br><br>【入力デバイス】<br>キーボード,マウス,ゲームパッド | Windows7以降 (Windows8.xの場合パススルー接続非対応) |
+| <a id="ADUSBCIM">ADUSBCIM</a> | USB CABLE CHECKER 2 | [製品HP](https://bit-trade-one.co.jp/adusbcim/) / [サポート](https://github.com/bit-trade-one/USBCableChecker2) | 【対応 USB インターフェイス】<br>USB Type A(~3.1 Gen2),<br>USB Type C(~3.2),<br>USB Type mini B(~2.0),<br>USB Type micro B(~2.0),<br>USB Type C(~3.2) | - |
+| <a id="BTCLK">BTCLK</a> | WLAN電波時計　BitClock | [製品HP](https://bit-trade-one.co.jp/product/bitferrous/btclk/) / [サポート](https://bit-trade-one.co.jp/product/bitferrous/btclk/) | 単独動作 | - |
+| <a id="BTIC2">BTIC2</a> | 低遅延型インターフェース変換装置　変わる君 | [製品HP](https://bit-trade-one.co.jp/product/bitferrous/btic2/ ) / [サポート](https://github.com/bit-trade-one/BTIC2-KawaruKun) | 単独動作 | - |
+| <a id="ADCRBT">ADCRBT</a> | クアッド・クローラー | [製品HP](https://bit-trade-one.co.jp/adcrbt/) / [サポート](https://github.com/bit-trade-one/QuadCrawler) | 単独動作 | - |
+| <a id="ADKRBT">ADKRBT</a> | プログラミング学習向け工作キット"リモコンロボ" | [製品HP](https://bit-trade-one.co.jp/adkrbt/) / [サポート](https://github.com/bit-trade-one/ADKRBT_Remocon_Robo) | 単独動作 | - |
+| <a id="ADCRKTR1">ADCRKTR1</a> | Arduino制御入門用ロボットキット 「KTR-1」 | [製品HP](https://bit-trade-one.co.jp/adcrktr1/) / [サポート](https://github.com/bit-trade-one/ADCRKTR1-KTR-1) | 単独動作 | - |
+| <a id="ADKRJS">ADKRJS</a> | リモコンロボ/クアッド・クローラー対応　赤外線ジョイスティックリモコン | [製品HP](https://bit-trade-one.co.jp/adkrbt/) / [サポート](https://github.com/bit-trade-one/ADKRJS_Remocon_Robo_Joystick_Controller) | 単独動作 | - |
+| <a id="BFHC2BK">BFHC2BK</a> | 浪漫型パドルコントローラー　Horizontal Controller EX | [製品HP](https://bit-trade-one.co.jp/product/bitferrous/bfhc2bk/) / [サポート](https://github.com/bit-trade-one/BFHC2-HorizontalControllerEX) | 単独動作 | - |
+| <a id="BFTP01Y">BFTP01Y</a> | 浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】 | [製品HP](https://bit-trade-one.co.jp/product/bitferrous/bftp01y/) / [サポート](https://github.com/bit-trade-one/BFTP01-tone-pedal) | 単独動作 | - |
+
