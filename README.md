@@ -51,6 +51,10 @@
 
 
 ---
+
+## デバイス製品 USB2BTPやUSBCableChecker2など
+[トップへ戻る](#productlist)
+
 | 型番 | 製品名 | リンク | 対応機器・備考 | アプリ |
 | --- | --- | --- | --- | --- |
 | <a id="ADU2B02P">ADU2B02P</a> | USB2BT PLUS | [製品HP](https://bit-trade-one.co.jp/product/module/usb2btp/) /<br> [サポート](https://github.com/bit-trade-one/ADU2B02P_USB2BT_Plus) | 【入力機器】<br>iOS,android,Windows7以降,MAC OS X<br><br>【入力デバイス】<br>キーボード,マウス,ゲームパッド | Windows7以降 (Windows8.xの場合パススルー接続非対応) |
