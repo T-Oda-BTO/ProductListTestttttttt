@@ -36,7 +36,7 @@
 | 型番 | 製品名 | リンク | 対応機器・備考 | アプリ |
 | --- | --- | --- | --- | --- |
 | <a id="AD00001">AD00001</a> | 自動車用デジタルスピードメータ/青（キット）  |[製品HP](https://bit-trade-one.co.jp/product/assemblydisk/ad00001/) / [サポート](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter)  | 単独動作 | - |
-| <a id="AD00002">AD00002</a> | 静電容量式タッチセンサモジュール  | [製品HP](https://bit-trade-one.co.jp/product/module/ad00002/) / [サポート](https://bit-trade-one.co.jp/product/module/ad00002/) | 電圧出力（最大電流25mAまで） | - |
+| <a id="AD00002">AD00002</a> | 静電容量式タッチセンサモジュール  | [製品HP](https://bit-trade-one.co.jp/product/module/ad00002/) / [サポート](https://bit-trade-one.co.jp/product/module/ad00002/) | 電源電圧出力（最大電流25mAまで） | - |
 | <a id="AD00010">AD00010</a> | 貼る タッチスイッチ・丸 | [製品HP](https://bit-trade-one.co.jp/product/module/ad00010/) / [サポート](https://github.com/bit-trade-one/AD00010_Touch_Switch_Circle) | オープンコレクタ出力 | - |
 | <a id="ADRVMIC">ADRVMIC2</a> | REVIVE USB †MICRO†Rev.2 | [製品HP](https://github.com/bit-trade-one/ADRVMICR2-REVIVE-USB-Micro-Rev2) / [サポート](https://bit-trade-one.co.jp/adrvmic/) | Windows7~11,iOS(暫定版) | Windows7~11,iOS(暫定版)|
 | <a id="test">test</a> | 製品名 | [製品HP]() / [サポート]() | 単独動作 | - |
