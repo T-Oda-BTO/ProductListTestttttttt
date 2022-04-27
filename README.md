@@ -57,7 +57,7 @@
 
 | 型番 | 製品名 | リンク | 対応機器・備考 | アプリ |
 | --- | --- | --- | --- | --- |
-| <a id="ADU2B02P">ADU2B02P</a> | USB2BT PLUS | [製品HP](https://bit-trade-one.co.jp/product/module/usb2btp/) /<br> [サポート](https://github.com/bit-trade-one/ADU2B02P_USB2BT_Plus) | 【入力機器】<br>iOS,android,Windows7以降,MAC OS X<br><br>【入力デバイス】<br>キーボード,マウス,ゲームパッド | Windows7以降 (Windows8.xの場合パススルー接続非対応) |
+| <a id="ADU2B02P">ADU2B02P</a> | USB2BT PLUS | [製品HP](https://bit-trade-one.co.jp/product/module/usb2btp/) /<br> [サポート](https://github.com/bit-trade-one/ADU2B02P_USB2BT_Plus) | 【入力機器】<br>iOS,android,Windows7以降,MAC OS X<br>【入力デバイス】<br>キーボード,マウス,ゲームパッド | Windows7以降 (Windows8.xの場合パススルー接続非対応) |
 | <a id="ADUSBCIM">ADUSBCIM</a> | USB CABLE CHECKER 2 | [製品HP](https://bit-trade-one.co.jp/adusbcim/) / [サポート](https://github.com/bit-trade-one/USBCableChecker2) | 【対応 USB インターフェイス】<br>USB Type A(~3.1 Gen2),Type C(~3.2),Type mini B(~2.0),Type micro B(~2.0),Type C(~3.2) | - |
 | <a id="BTCLK">BTCLK</a> | WLAN電波時計　BitClock | [製品HP](https://bit-trade-one.co.jp/product/bitferrous/btclk/)  | 単独動作 | Windows7, 8.1, 10 |
 | <a id="BTIC2">BTIC2</a> | 低遅延型インターフェース変換装置　変わる君 | [製品HP](https://bit-trade-one.co.jp/product/bitferrous/btic2/ ) / [サポート](https://github.com/bit-trade-one/BTIC2-KawaruKun) | Windows10, 8.1, 8, 7, Vista™搭載のDOS/Vパソコン<br>NEC PC-9800、PC-9821シリーズ非対応 <br>【本体設定後、使用可能OS】<br>Android5.0 以降スイッチアクセス対応（ホストケーブルが必要）、MacOS X 10.10以降スイッチコントロール対応| 日本語版OS: Windows10, 8.1, 8, 7, Vista™ |
