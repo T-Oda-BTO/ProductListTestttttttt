@@ -1,20 +1,23 @@
 # ProductList
+### ビット・トレード・ワン製品一覧表
+
 各製品HP・サポートページへのリンク一覧・検索用ページです。  
 製品の型番もしくは製品名を検索し、製品HPやサポート情報をお探しください。  
 (Ctrl + F などのページ内検索を使うと便利です。)  
-#### 各サポートページ(GitHub)からのファイルダウンロード方法は[こちら](https://bit-trade-one.co.jp/h2gh/)の記事で紹介しています。
+#### GitHubサポートページからのファイルダウンロード方法は[こちら](https://bit-trade-one.co.jp/h2gh/)の記事で紹介しています。
 
 ---
 
 ## 目次
-- [デバイス製品 USB2BTPやUSBCableChecker2など](#デバイス製品-usb2btpやusbcablechecker2など)
-
+- [デバイス製品](#デバイス製品)
+ USB2BTPやUSBCableChecker2など
+ 
 <!--mdでページ内リンクを貼る際はこちらの記事がとてもわかりやすいので必読です！https://qiita.com/hennin/items/7ee58dd7d7c013a23be7#%E5%8D%8A%E8%A7%92%E8%A8%98%E5%8F%B7%E3%81%AF%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%83%90%E3%83%BC_%E3%81%A8%E3%83%8F%E3%82%A4%E3%83%95%E3%83%B3-%E4%BB%A5%E5%A4%96%E7%9C%81%E7%95%A5
 -->
 
 ---
 
-## デバイス製品 USB2BTPやUSBCableChecker2など 
+## デバイス製品
 [トップへ戻る](#productlist) / [対応機器一覧表](DeviceProduct_CorrespondenceList.md)
 
 
