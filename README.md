@@ -38,7 +38,7 @@
 
 ---
 ## IoT製品,Raspberry Pi関連,ゼロワンシリーズ等
-[トップへ戻る](#productlist) / [対応機器一覧表](DeviceProduct_CorrespondenceList.md)
+[トップへ戻る](#productlist) / [対応機器一覧表](IoTProduct_CorrespondenceList.md)
 
 | 型番| 製品名/サポートページリンク| 製品ページリンク(BTO_HP)    |
 | -------------- | ------------------------ |--------------------------- |
