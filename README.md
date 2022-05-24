@@ -12,6 +12,8 @@
 ## 目次
 - [デバイス製品](#デバイス製品)
  USB2BTPLUSやUSBCableChecker2など
+ - [IoT製品](#iot製品)
+Raspberry Pi関連,ゼロワンシリーズ等
  
 <!--mdでページ内リンクを貼る際はこちらの記事がとてもわかりやすいので必読です！https://qiita.com/hennin/items/7ee58dd7d7c013a23be7#%E5%8D%8A%E8%A7%92%E8%A8%98%E5%8F%B7%E3%81%AF%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%83%90%E3%83%BC_%E3%81%A8%E3%83%8F%E3%82%A4%E3%83%95%E3%83%B3-%E4%BB%A5%E5%A4%96%E7%9C%81%E7%95%A5
 -->
@@ -37,7 +39,7 @@
 | <a id="BFTP01Y">BFTP01Y</a> | 浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】|  [製品ページ](https://bit-trade-one.co.jp/product/bitferrous/bftp01y/) |[サポートページ](https://github.com/bit-trade-one/BFTP01-tone-pedal) | 
 
 ---
-## IoT製品,Raspberry Pi関連,ゼロワンシリーズ等
+## IoT製品
 [トップへ戻る](#productlist) / [対応機器一覧表](IoTProduct_CorrespondenceList.md)
 
 | 型番| 製品名 | 製品リンク(BTO_HP) | サポートリンク | 
