@@ -24,25 +24,60 @@ Raspberry Pi関連,ゼロワンシリーズ等
 [トップへ戻る](#productlist) / [対応機器一覧表](DeviceProduct_CorrespondenceList.md)
 
 
-| 型番| 製品名 | 製品リンク(BTO_HP) | サポートリンク | 
+| 型番| 製品名 | 製品HPリンク | サポートリンク | 
 | --- | --- | --- | --- |
-| <a id="ADU2B02P">ADU2B02P</a> | USB2BT PLUS |  [製品ページ](https://bit-trade-one.co.jp/product/module/usb2btp/) |[サポートページ](https://github.com/bit-trade-one/ADU2B02P_USB2BT_Plus) |
-| <a id="ADUSBCIM">ADUSBCIM</a> | USB CABLE CHECKER 2|  [製品ページ](https://bit-trade-one.co.jp/adusbcim/)|[サポートページ](https://github.com/bit-trade-one/USBCableChecker2) |
-| <a id="BTCLK">BTCLK</a>    | WLAN電波時計　BitClock |  [製品ページ](https://bit-trade-one.co.jp/product/bitferrous/btclk/) | - |
-| <a id="BTIC2">BTIC2</a>   | 低遅延型インターフェース変換装置　変わる君 |  [製品ページ](https://bit-trade-one.co.jp/product/bitferrous/btic2/)|[サポートページ](https://github.com/bit-trade-one/BTIC2-KawaruKun) | 
-| <a id="ADCRBT">ADCRBT</a> | クアッド・クローラー |  [製品ページ](https://bit-trade-one.co.jp/adcrbt/)|[サポートページ](https://github.com/bit-trade-one/QuadCrawler) |
-| <a id="ADCRAIBT">ADCRAIBT</a> | クアッド・クローラーAI |  [製品ページ](https://bit-trade-one.co.jp/adcraibt/) |[サポートページ](https://github.com/bit-trade-one/QuadCrawlerAI) |
-| <a id="ADKRBT">ADKRBT</a> | プログラミング学習向け工作キット"リモコンロボ" |   [製品ページ](https://bit-trade-one.co.jp/adkrbt/) |[サポートページ](https://github.com/bit-trade-one/ADKRBT_Remocon_Robo) |
-| <a id="ADCRKTR1">ADCRKTR1</a> |Arduino制御入門用ロボットキット 「KTR-1」 |  [製品ページ](https://bit-trade-one.co.jp/adcrktr1/) | [サポートページ](https://github.com/bit-trade-one/ADCRKTR1-KTR-1) |
-| <a id="ADKRJS">ADKRJS</a> | リモコンロボ/クアッド・クローラー対応　赤外線ジョイスティックリモコン |  [製品ページ](https://bit-trade-one.co.jp/adkrbt/) |[サポートページ](https://github.com/bit-trade-one/ADKRJS_Remocon_Robo_Joystick_Controller) |
-| <a id="BFHC2BK">BFHC2BK</a> | 浪漫型パドルコントローラー　Horizontal Controller EX |  [製品ページ](https://bit-trade-one.co.jp/product/bitferrous/bfhc2bk/) |[サポートページ](https://github.com/bit-trade-one/BFHC2-HorizontalControllerEX) | 
-| <a id="BFTP01Y">BFTP01Y</a> | 浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】|  [製品ページ](https://bit-trade-one.co.jp/product/bitferrous/bftp01y/) |[サポートページ](https://github.com/bit-trade-one/BFTP01-tone-pedal) | 
+| <a id="ADU2B02P">ADU2B02P</a> | USB2BT PLUS |  [製品ページ][ADU2B02P_HP] |[サポートページ][ADU2B02P_SP] |
+| <a id="ADUSBCIM">ADUSBCIM</a> | USB CABLE CHECKER 2|  [製品ページ][ADUSBCIM_HP]|[サポートページ][ADUSBCIM_SP] |
+| <a id="BTCLK">BTCLK</a>    | WLAN電波時計　BitClock |   [製品ページ][BTCLK_HP]| - |
+| <a id="BTIC2">BTIC2</a>   | 低遅延型インターフェース変換装置　変わる君 |  [製品ページ][BTIC2_HP]|[サポートページ][BTIC2_SP] |
+| <a id="ADCRBT">ADCRBT</a> | クアッド・クローラー |  [製品ページ][ADCRBT_HP]|[サポートページ][ADCRBT_SP] |
+| <a id="ADCRAIBT">ADCRAIBT</a> | クアッド・クローラーAI |  [製品ページ][ADCRAIBT_HP]|[サポートページ][ADCRAIBT_SP] |
+| <a id="ADKRBT">ADKRBT</a> | プログラミング学習向け工作キット"リモコンロボ" |   [製品ページ][ADKRBT_HP]|[サポートページ][ADKRBT_SP] |
+| <a id="ADCRKTR1">ADCRKTR1</a> |Arduino制御入門用ロボットキット 「KTR-1」 |    [製品ページ][ADCRKTR1_HP]|[サポートページ][ADCRKTR1_SP] |
+| <a id="ADKRJS">ADKRJS</a> | リモコンロボ/クアッド・クローラー対応　赤外線ジョイスティックリモコン |   [製品ページ][ADKRJS_HP]|[サポートページ][ADKRJS_SP] |
+| <a id="BFHC2BK">BFHC2BK</a> | 浪漫型パドルコントローラー　Horizontal Controller EX |   [製品ページ][BFHC2BK_HP]|[サポートページ][BFHC2BK_SP] |
+| <a id="BFTP01Y">BFTP01Y</a> | 浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】|  [製品ページ][BFTP01Y_HP]|[サポートページ][BFTP01Y_SP] |
+
+<!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
+
+[ADU2B02P_HP]: https://bit-trade-one.co.jp/product/module/usb2btp/
+[ADU2B02P_SP]: https://github.com/bit-trade-one/ADU2B02P_USB2BT_Plus
+
+[ADUSBCIM_HP]: https://bit-trade-one.co.jp/adusbcim/
+[ADUSBCIM_SP]: https://github.com/bit-trade-one/USBCableChecker2
+
+[BTCLK_HP]: https://bit-trade-one.co.jp/product/bitferrous/btclk/
+ 
+
+[BTIC2_HP]: https://bit-trade-one.co.jp/product/bitferrous/btic2/
+[BTIC2_SP]: https://github.com/bit-trade-one/BTIC2-KawaruKun
+
+[ADCRBT_HP]: https://bit-trade-one.co.jp/adcrbt/
+[ADCRBT_SP]: https://github.com/bit-trade-one/QuadCrawler
+
+[ADCRAIBT_HP]: https://bit-trade-one.co.jp/adcraibt/
+[ADCRAIBT_SP]: https://github.com/bit-trade-one/QuadCrawlerAI
+
+[ADKRBT_HP]: https://bit-trade-one.co.jp/adkrbt/
+[ADKRBT_SP]: https://github.com/bit-trade-one/ADKRBT_Remocon_Robo
+
+[ADCRKTR1_HP]: https://bit-trade-one.co.jp/adcrktr1/
+[ADCRKTR1_SP]: https://github.com/bit-trade-one/ADCRKTR1-KTR-1
+
+[ADKRJS_HP]: https://bit-trade-one.co.jp/adkrbt/
+[ADKRJS_SP]: https://github.com/bit-trade-one/ADKRJS_Remocon_Robo_Joystick_Controller
+
+[BFHC2BK_HP]: https://bit-trade-one.co.jp/product/bitferrous/bfhc2bk/
+[BFHC2BK_SP]: https://github.com/bit-trade-one/BFHC2-HorizontalControllerEX
+
+[BFTP01Y_HP]: https://bit-trade-one.co.jp/product/bitferrous/bftp01y/
+[BFTP01Y_SP]: https://github.com/bit-trade-one/BFTP01-tone-pedal
 
 ---
 ## IoT製品
 [トップへ戻る](#productlist) / [対応機器一覧表](IoTProduct_CorrespondenceList.md)
 
-| 型番| 製品名 | 製品リンク(BTO_HP) | サポートリンク | 
+| 型番| 製品名 | 製品HPリンク | サポートリンク | 
 | --- | --- | --- | --- |
 | <a id="ADAUDIR">ADAUDIR</a>   | アルディーノ専用 学習リモコン基板 | [製品ページ](https://github.com/bit-trade-one/ADAUDIR_Arduino_IR_Remocon) |  [サポートページ](https://bit-trade-one.co.jp/product/module/adaudir/)  |
 | <a id="ADRSRTC">ADRSRTC</a>   | ラズベリーパイ専用リアルタイムクロック拡張ボード | [製品ページ](https://github.com/bit-trade-one/ADRSRTC-RTC-HAT) |  [サポートページ](https://bit-trade-one.co.jp/adrsrtc)  |
