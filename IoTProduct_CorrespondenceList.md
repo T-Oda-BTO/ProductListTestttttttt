@@ -3,12 +3,12 @@
 
 | 型番 | 製品名 | 対応機器・備考 | アプリ |
 | --- | --- | --- | --- | 
-| <a id="ADAUDIR">ADAUDIR</a>   |アルディーノ専用 学習リモコン基板 |  | |
-| <a id="ADRSRTC">ADRSRTC</a>   |ラズベリーパイ専用リアルタイムクロック拡張ボード|  | |
-| <a id="ADICGIR">ADICGIR</a>   | IchigoJam専用学習リモコン基板]|  | |
-| <a id="ADJTSB01">ADJTSB01</a>  | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード    |  | |
-| <a id="ADJTSB01B">ADJTSB01B</a> | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード 書籍同梱版 |  | |
-| <a id="ADMU32F">ADMU32F</a> | WiFi対応！ロボット・工作キットを拡張！ 多機能リモコンボード「Duke32AIO」 |  | |
+| <a id="ADAUDIR">ADAUDIR</a>   |アルディーノ専用 学習リモコン基板 | Arduino  | |
+| <a id="ADRSRTC">ADRSRTC</a>   |ラズベリーパイ専用リアルタイムクロック拡張ボード| Raspberry Pi  | |
+| <a id="ADICGIR">ADICGIR</a>   | IchigoJam専用学習リモコン基板| IchigoJam | |
+| <a id="ADJTSB01">ADJTSB01</a>  | Jetson ＆ Pi 電力測定ボード    |  | |
+| <a id="ADJTSB01B">ADJTSB01B</a> | Jetson ＆ Pi 電力測定ボード 書籍同梱版 |  | |
+| <a id="ADMU32F">ADMU32F</a> | Duke32AIO |  | |
 | <a id="ADRPTB8C">ADRPTB8C</a> | ラズベリーパイ専用 汎用電動機制御基板  |  | |
 | <a id="ADRSADC">ADRSADC</a> | Raspberry Pi 用Arduino シールド変換基板  |  | |
 | <a id="ADRSBB">ADRSBB</a> | Raspberry Pi 用ブレッドボード基板 |  | |
