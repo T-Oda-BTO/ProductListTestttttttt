@@ -52,7 +52,7 @@
 
 ---
 
-## デバイス製品 USB2BTPやUSBCableChecker2など
+## デバイス製品 USB2BTPやUSBCableChecker2など [対応表](DeviceProduct_CorrespondenceList.md)
 [トップへ戻る](#productlist)
 
 | 型番 / 製品名 | リンク | 対応機器・備考 | アプリ |
