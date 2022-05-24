@@ -18,7 +18,7 @@
 
 ---
 
-
+<!--
 ## BitTradeOneブランド モジュール,タッチデバイス等
 [トップへ戻る](#productlist)
   <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -30,7 +30,8 @@
 | <a id="ADRVMIC">ADRVMIC</a>  | <a id="ADRVMIC">ADRVMIC</a>  | 
 |<a href="https://bit-trade-one.co.jp/adrvmic/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/12/2d0d67c312d1b9bc41fbb87ea2492977.jpg" width="360px"> <br>製品HP</a><br>[サポートサイト]()| <a href="https://bit-trade-one.co.jp/adrvmic/"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/12/2d0d67c312d1b9bc41fbb87ea2492977.jpg" width="360px"> <br>製品HP</a><br>[サポートサイト]() |
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
-
+-->
+<!--
 ---
 
 | 型番 / 製品名 | リンク | 対応機器・備考 | アプリ |
@@ -44,28 +45,30 @@
 
 
 ---
-
+-->
+<!--
 | 型番 / 製品名 | リンク | 対応機器・備考 | アプリ |
 | --- | --- | --- | --- |
 | <b><a id="ADCQ1611AKRE">ADCQ1611AKRE</a></b> <br> PICスパコン ラズベリーパイ拡張モジュール PiCCASO キット  |[製品HP](https://bit-trade-one.co.jp/product/module/adcq1611ap/) / [サポート](https://github.com/bit-trade-one/ADCQ1611AP_CQ_PICCASO)  | Raspberry Pi 2 Model B／Pi 3 Model B | - |
 
 
+-->
 ---
 
 ## デバイス製品 USB2BTPやUSBCableChecker2など 
-[トップへ戻る](#productlist)
-[対応機器一覧表](DeviceProduct_CorrespondenceList.md)
+[トップへ戻る](#productlist) / [対応機器一覧表](DeviceProduct_CorrespondenceList.md)
 
-| 型番 / 製品名 | リンク | 対応機器・備考 | アプリ |
+
+| 型番| 製品名 | サポートリンク | 製品リンク(BTO_HP) |
 | --- | --- | --- | --- |
-| <b><a id="ADU2B02P">ADU2B02P</a></b> <br> USB2BT PLUS | [製品HP](https://bit-trade-one.co.jp/product/module/usb2btp/) /<br> [サポート](https://github.com/bit-trade-one/ADU2B02P_USB2BT_Plus) | 【入力機器】<br>iOS,android,Windows7以降,MAC OS X<br>【入力デバイス】<br>キーボード,マウス,ゲームパッド | Windows7以降 (Windows8.xの場合パススルー接続非対応) |
-| <b><a id="ADUSBCIM">ADUSBCIM</a></b> <br> USB CABLE CHECKER 2 | [製品HP](https://bit-trade-one.co.jp/adusbcim/) / [サポート](https://github.com/bit-trade-one/USBCableChecker2) | 【対応 USB インターフェイス】<br>A側：USB Type A(~3.1 Gen2),Type C(~3.2), <br>B側：Type mini B(~2.0),Type micro B(~2.0),Type C(~3.2) | - |
-| <b><a id="BTCLK">BTCLK</a></b> <br> WLAN電波時計　BitClock | [製品HP](https://bit-trade-one.co.jp/product/bitferrous/btclk/)  | 単独動作 | Windows7, 8.1, 10 |
-| <b><a id="BTIC2">BTIC2</a></b> <br> 低遅延型インターフェース変換装置　変わる君 | [製品HP](https://bit-trade-one.co.jp/product/bitferrous/btic2/ ) / [サポート](https://github.com/bit-trade-one/BTIC2-KawaruKun) | Windows10, 8.1, 8, 7, Vista™<br>NEC PC-9800、PC-9821シリーズ非対応 <br>【本体設定後、使用可能OS】<br>Android5.0 以降スイッチアクセス対応（ホストケーブルが必要）、MacOS X 10.10以降スイッチコントロール対応| 日本語版OS: Windows10, 8.1, 8, 7, Vista™ |
-| <b><a id="ADCRBT">ADCRBT</a></b> <br> クアッド・クローラー | [製品HP](https://bit-trade-one.co.jp/adcrbt/) / [サポート](https://github.com/bit-trade-one/QuadCrawler) | 単独動作 | 専用アプリ (対応OS Windows) or,<br>Arduino IDE(対応OS Windows,MAC OS,他) |
-| <b><a id="ADKRBT">ADKRBT</a></b> <br> プログラミング学習向け工作キット"リモコンロボ" | [製品HP](https://bit-trade-one.co.jp/adkrbt/) / [サポート](https://github.com/bit-trade-one/ADKRBT_Remocon_Robo) | 単独動作 |  専用アプリ (対応OS Windows) or,<br>Arduino IDE(対応OS Windows,MAC OS,他) |
-| <b><a id="ADCRKTR1">ADCRKTR1</a></b> <br> Arduino制御入門用ロボットキット 「KTR-1」 | [製品HP](https://bit-trade-one.co.jp/adcrktr1/) / [サポート](https://github.com/bit-trade-one/ADCRKTR1-KTR-1) | 単独動作 | Arduino IDE(対応OS Windows,MAC OS,他) |
-| <b><a id="ADKRJS">ADKRJS</a></b> <br> リモコンロボ/クアッド・クローラー対応　赤外線ジョイスティックリモコン | [製品HP](https://bit-trade-one.co.jp/adkrbt/) / [サポート](https://github.com/bit-trade-one/ADKRJS_Remocon_Robo_Joystick_Controller) | リモコンロボ/クアッド・クローラー | - |
-| <b><a id="BFHC2BK">BFHC2BK</a></b> <br> 浪漫型パドルコントローラー　Horizontal Controller EX | [製品HP](https://bit-trade-one.co.jp/product/bitferrous/bfhc2bk/) / [サポート](https://github.com/bit-trade-one/BFHC2-HorizontalControllerEX) | Windows10, 8.1, 8, 7, Vista™<br>NEC PC-9800、PC-9821シリーズ非対応 | 日本語版OS: Windows10, 8.1, 8, 7, Vista™ |
-| <b><a id="BFTP01Y">BFTP01Y</a></b> <br> 浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】 | [製品HP](https://bit-trade-one.co.jp/product/bitferrous/bftp01y/) / [サポート](https://github.com/bit-trade-one/BFTP01-tone-pedal) | Windows10, 8.1, 8, 7, Vista™<br>NEC PC-9800、PC-9821シリーズ非対応 | 日本語版OS:Windows10, 8.1, 8, 7, Vista™
-
+| <a id="ADU2B02P">ADU2B02P</a> | USB2BT PLUS |[サポートページ](https://github.com/bit-trade-one/ADU2B02P_USB2BT_Plus) |  [製品ページ](https://bit-trade-one.co.jp/product/module/usb2btp/)|
+| <a id="ADUSBCIM">ADUSBCIM</a> | USB CABLE CHECKER 2|[サポートページ](https://github.com/bit-trade-one/USBCableChecker2) |  [製品ページ](https://bit-trade-one.co.jp/adusbcim/)|
+| <a id="BTCLK">BTCLK</a>    | WLAN電波時計　BitClock | - | [製品ページ](https://bit-trade-one.co.jp/product/bitferrous/btclk/) |
+| <a id="BTIC2">BTIC2</a>    | 低遅延型インターフェース変換装置　変わる君 |[サポートページ](https://github.com/bit-trade-one/BTIC2-KawaruKun) |  [製品ページ](https://bit-trade-one.co.jp/product/bitferrous/btic2/)|
+| <a id="ADCRBT">ADCRBT</a> | クアッド・クローラー |[サポートページ](https://github.com/bit-trade-one/QuadCrawler) |  [製品ページ](https://bit-trade-one.co.jp/adcrbt/)|
+| <a id="ADCRAIBT">ADCRAIBT</a> | クアッド・クローラーAI |[サポートページ](https://github.com/bit-trade-one/QuadCrawlerAI) |  [製品ページ](https://bit-trade-one.co.jp/adcraibt/) |
+| <a id="ADKRBT">ADKRBT</a> | プログラミング学習向け工作キット"リモコンロボ" | [サポートページ](https://github.com/bit-trade-one/ADKRBT_Remocon_Robo) |  [製品ページ](https://bit-trade-one.co.jp/adkrbt/) |
+| <a id="ADCRKTR1">ADCRKTR1</a> |Arduino制御入門用ロボットキット 「KTR-1」 | [サポートページ](https://github.com/bit-trade-one/ADCRKTR1-KTR-1) |  [製品ページ](https://bit-trade-one.co.jp/adcrktr1/) |
+| <a id="ADKRJS">ADKRJS</a> | リモコンロボ/クアッド・クローラー対応　赤外線ジョイスティックリモコン | [サポートページ](https://github.com/bit-trade-one/ADKRJS_Remocon_Robo_Joystick_Controller) | [製品ページ](https://bit-trade-one.co.jp/adkrbt/) |
+| <a id="BFHC2BK">BFHC2BK</a> | 浪漫型パドルコントローラー　Horizontal Controller EX | [サポートページ](https://github.com/bit-trade-one/BFHC2-HorizontalControllerEX) |  [製品ページ](https://bit-trade-one.co.jp/product/bitferrous/bfhc2bk/) |
+| <a id="BFTP01Y">BFTP01Y</a> | 浪漫型ギターエフェクタースタイル USBフットペダル【TonePedal+】| [サポートページ](https://github.com/bit-trade-one/BFTP01-tone-pedal) |  [製品ページ](https://bit-trade-one.co.jp/product/bitferrous/bftp01y/) |
