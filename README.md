@@ -1,6 +1,8 @@
 [![BTO-logo](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/logo.png)](https://bit-trade-one.co.jp/)
-### ビット・トレード・ワン製品一覧表
 
+# ProductList
+
+### ビット・トレード・ワン製品一覧表
 各製品HP・サポートページへのリンク一覧・検索用ページです。  
 製品の型番もしくは製品名を検索し、製品HPやサポート情報をお探しください。  
 (Ctrl + F などのページ内検索を使うと便利です。)  
