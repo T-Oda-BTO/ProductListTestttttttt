@@ -1,7 +1,5 @@
 [![BTO-logo](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/logo.png)](https://bit-trade-one.co.jp/)
 
-# ProductList
-
 ### ビット・トレード・ワン製品一覧表
 各製品HP・サポートページへのリンク一覧・検索用ページです。  
 製品の型番もしくは製品名を検索し、製品HPやサポート情報をお探しください。  
@@ -192,7 +190,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 
 ---
 ## 雑誌連動製品
-[トップへ戻る](#productlist)
+[トップへ戻る](README.md)
 
 | 型番| 製品名 | 製品HPリンク | サポートリンク | 
 | --- | --- | --- | --- |
@@ -437,7 +435,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
  
 ---
 ## デバイス製品
-[トップへ戻る](#productlist) / [対応機器一覧表](DeviceProduct_CorrespondenceList.md)
+[トップへ戻る](README.md) / [対応機器一覧表](DeviceProduct_CorrespondenceList.md)
 
 
 | 型番| 製品名 | 製品HPリンク | サポートリンク | 
@@ -491,7 +489,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 
 ---
 ## IoT製品
-[トップへ戻る](#productlist) / [対応機器一覧表](IoTProduct_CorrespondenceList.md)
+[トップへ戻る](README.md) / [対応機器一覧表](IoTProduct_CorrespondenceList.md)
 
 | 型番| 製品名 | 製品HPリンク | サポートリンク | 
 | --- | --- | --- | --- |
@@ -675,7 +673,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 
  ## 業務用シリーズ
  
-[トップへ戻る](#productlist) / [対応機器一覧表](ProductForBusiness_CorrespondenceList.md)
+[トップへ戻る](README.md) / [対応機器一覧表](ProductForBusiness_CorrespondenceList.md)
 
 | 型番| 製品名 | 製品HPリンク | サポートリンク | 
 | --- | --- | --- | --- |
