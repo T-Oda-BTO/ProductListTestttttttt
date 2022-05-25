@@ -71,121 +71,121 @@ Raspberry Pi関連,ゼロワンシリーズ等
  <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
  
 [AD00001_HP]: https://bit-trade-one.co.jp/product/assemblydisk/ad00001/
-[AD00001_SP]:
+[AD00001_SP]:https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter
   
 [AD00002_HP]: https://bit-trade-one.co.jp/product/module/ad00002/
-[AD00002_SP]:
+[AD00002_SP]: https://github.com/bit-trade-one/AD00002-TouchSensorModule
   
 [AD00003_HP]: https://bit-trade-one.co.jp/product/assemblydisk/ad00001/
-[AD00003_SP]:
+[AD00003_SP]:https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter
   
 [AD00007_HP]: https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/
-[AD00007_SP]:
+[AD00007_SP]: https://github.com/bit-trade-one/REVIVE-USB
   
-[AD00007P_HP]: 	https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/
-[AD00007P_SP]:
+[AD00007P_HP]: https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/
+[AD00007P_SP]: https://github.com/bit-trade-one/REVIVE-USB
   
 [AD00008_HP]: https://bit-trade-one.co.jp/product/asoovu/
-[AD00008_SP]:
+[AD00008_SP]: https://github.com/bit-trade-one/AD00008-ASOOVU_USB
   
 [AD00009B_HP]: https://bit-trade-one.co.jp/delegaterb/
-[AD00009B_SP]:
+[AD00009B_SP]: https://github.com/bit-trade-one/AD00009-USB_DELEGATER_B
   
 [AD00010_HP]: https://bit-trade-one.co.jp/product/module/ad00010/
-[AD00010_SP]:
+[AD00010_SP]: https://github.com/bit-trade-one/AD00010_Touch_Switch_Circle
   
 [AD00011_HP]: https://bit-trade-one.co.jp/product/bitferrous/bittouch-2/
-[AD00011_SP]:
+[AD00011_SP]: https://github.com/bit-trade-one/AD00011_BitTouch
   
 [AD00012_HP]: https://bit-trade-one.co.jp/product/asoovu/
-[AD00012_SP]:
+[AD00012_SP]: https://github.com/bit-trade-one/AD00012_ASOOVU_USB_thermometer_kit
   
 [AD00013_HP]: https://bit-trade-one.co.jp/product/asoovu/
-[AD00013_SP]:
+[AD00013_SP]: https://github.com/bit-trade-one/AD00013_ASOOVU_USB_Digital_I-O_kit
   
 [AD00016_HP]: https://bit-trade-one.co.jp/product/assemblydisk/ad00016/
-[AD00016_SP]:
+[AD00016_SP]: https://github.com/bit-trade-one/AD00016_Digital_Speed_meter_barGraphkit
   
 [AD00018_HP]: https://bit-trade-one.co.jp/product/module/ad00018/
-[AD00018_SP]:
+[AD00018_SP]: https://github.com/bit-trade-one/AD00018_Clear_Touchsensor_Simple
   
 [AD00019_HP]: https://bit-trade-one.co.jp/product/module/ad00019/
-[AD00019_SP]:
+[AD00019_SP]: https://github.com/bit-trade-one/AD00019_Clear_Touchswitch_multi
   
 [AD00020_HP]: https://bit-trade-one.co.jp/product/assemblydisk/ad00020/
-[AD00020_SP]:
+[AD00020_SP]: https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller
   
 [AD00020P_HP]: https://bit-trade-one.co.jp/product/assemblydisk/ad00020/
-[AD00020P_SP]:
+[AD00020P_SP]: https://github.com/bit-trade-one/AD00020-USB_IR_Remote_Controller
   
 [AD00023_HP]: https://bit-trade-one.co.jp/product/assemblydisk/ad00023/
-[AD00023_SP]:
+[AD00023_SP]:https://github.com/bit-trade-one/AD00023_USB_Charge_Capacity_Checher
   
 [AD00023P_HP]: https://bit-trade-one.co.jp/product/assemblydisk/ad00023/
-[AD00023P_SP]:
+[AD00023P_SP]: https://github.com/bit-trade-one/AD00023_USB_Charge_Capacity_Checher
   
 [AD00026_HP]: https://bit-trade-one.co.jp/product/assemblydisk/ad00026/
-[AD00026_SP]:
+[AD00026_SP]: https://github.com/bit-trade-one/AD00026_Current_Feedback_Amplifier
   
 [AD00026P_HP]: https://bit-trade-one.co.jp/product/assemblydisk/ad00026/
-[AD00026P_SP]:
+[AD00026P_SP]: https://github.com/bit-trade-one/AD00026_Current_Feedback_Amplifier
   
 [AD00030_HP]: https://bit-trade-one.co.jp/product/assemblydisk/ad00030/
-[AD00030_SP]:
+[AD00030_SP]: https://github.com/bit-trade-one/AD00030_Po_Po_Pomp
   
 [AD00032_HP]: https://bit-trade-one.co.jp/product/bitferrous/ad00032/
-[AD00032_SP]:
+[AD00032_SP]: https://github.com/bit-trade-one/AD00032_Current_Feedback_Headphone_Amp
   
 [ADBLE01P_HP]: https://bit-trade-one.co.jp/product/module/adble01p/
-[ADBLE01P_SP]:
+[ADBLE01P_SP]: https://github.com/bit-trade-one/ADBLE01P_BLE_Capacity_TouchSensor_DevKit
   
 [ADEC02_HP]: https://bit-trade-one.co.jp/product/module/adec02/
-[ADEC02_SP]:
+[ADEC02_SP]: https://github.com/bit-trade-one/ADEC02-Capacity-Proximity-sensor
   
 [ADFCS01_HP]: https://bit-trade-one.co.jp/product/module/adfcs01/
-[ADFCS01_SP]:
-  
-[ADTCS_HP]: 	https://bit-trade-one.co.jp/adtcs/
-[ADTCS_SP]:
-  
-[ADACHACY_HP]: https://bit-trade-one.co.jp/hapstak/
-[ADACHACY_SP]:
-  
-[ADTEDCY_HP]: https://bit-trade-one.co.jp/hapstak/
-[ADTEDCY_SP]:
-  
-[ADTEDM_HP]: https://bit-trade-one.co.jp/product/module/adtedm/
-[ADTEDM_SP]:
-  
-[ADTEDS_HP]: https://bit-trade-one.co.jp/product/module/adtedm/
-[ADTEDS_SP]:
-  
-[ADIR01P_HP]: https://bit-trade-one.co.jp/product/module/adir01p/
-[ADIR01P_SP]:
-  
-[ADRADVA_HP]: https://bit-trade-one.co.jp/adradva/
-[ADRADVA_SP]:
-  
-[ADRVBRB_HP]: https://bit-trade-one.co.jp/adrvbrb/
-[ADRVBRB_SP]:
-  
-[ADRVBRBN_HP]: https://bit-trade-one.co.jp/adrvbrb/
-[ADRVBRBN_SP]:
-  
-[ADRVMIC_HP]: https://bit-trade-one.co.jp/adrvmic/
-[ADRVMIC_SP]:
-  
-[ADSU01_HP]: 	https://bit-trade-one.co.jp/product/module/adsu01/
-[ADSU01_SP]:
-  
-[ADSU01TB_HP]: https://bit-trade-one.co.jp/product/module/adsu01tb/
-[ADSU01TB_SP]:
+[ADFCS01_SP]: https://github.com/bit-trade-one/ADFCS01_Capacity_Film_Sensor
   
 [ADTCS_HP]: https://bit-trade-one.co.jp/adtcs/
-[ADTCS_SP]:
+[ADTCS_SP]: https://github.com/bit-trade-one/ADTCS
+  
+[ADACHACY_HP]: https://bit-trade-one.co.jp/hapstak/
+[ADACHACY_SP]: https://github.com/bit-trade-one/ADACHACY-hapStak
+  
+[ADTEDCY_HP]: https://bit-trade-one.co.jp/hapstak/
+[ADTEDCY_SP]: https://github.com/bit-trade-one/ADACHACY-hapStak
+  
+[ADTEDM_HP]: https://bit-trade-one.co.jp/product/module/adtedm/
+[ADTEDM_SP]: https://github.com/bit-trade-one/ADTED_Haptic_Device_Module
+  
+[ADTEDS_HP]: https://bit-trade-one.co.jp/product/module/adtedm/
+[ADTEDS_SP]: https://github.com/bit-trade-one/ADTED_Haptic_Device_Module
+  
+[ADIR01P_HP]: https://bit-trade-one.co.jp/product/module/adir01p/
+[ADIR01P_SP]: https://github.com/bit-trade-one/ADIR01P-USB_IR_Remote_Controller_Advance
+  
+[ADRADVA_HP]: https://bit-trade-one.co.jp/adradva/
+[ADRADVA_SP]: https://github.com/bit-trade-one/ADRADVA-REVIVE-ADVANCE
+  
+[ADRVBRB_HP]: https://bit-trade-one.co.jp/adrvbrb/
+[ADRVBRB_SP]: https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro
+  
+[ADRVBRBN_HP]: https://bit-trade-one.co.jp/adrvbrb/
+[ADRVBRBN_SP]: https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro
+  
+[ADRVMIC_HP]: https://bit-trade-one.co.jp/adrvmic/
+[ADRVMIC_SP]: https://github.com/bit-trade-one/ADRVMIC-REVIVE-USB-Micro
+  
+[ADSU01_HP]: https://bit-trade-one.co.jp/product/module/adsu01/
+[ADSU01_SP]: https://github.com/bit-trade-one/ADSU01_Sound_Player_Module
+  
+[ADSU01TB_HP]: https://bit-trade-one.co.jp/product/module/adsu01tb/
+[ADSU01TB_SP]: https://github.com/bit-trade-one/ADSU01TB_Sound_Player_Module_reference_board
+  
+[ADTCS_HP]: https://bit-trade-one.co.jp/adtcs/
+[ADTCS_SP]: https://github.com/bit-trade-one/ADTCS
   
 [ADU2B01P_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adu2b01/
-[ADU2B01P_SP]:
+[ADU2B01P_SP]: https://github.com/bit-trade-one/ADU2BT01_USB2BT_Kit
   
  
 
