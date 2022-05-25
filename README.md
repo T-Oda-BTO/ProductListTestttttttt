@@ -223,7 +223,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADGH01P">ADGH01P</a>           | ラズベリーパイ接続　GPIO入出力インターフェース汎用テストボード[ラズパイ3対応]組立済み                | [製品ページ][ADGH01P_HP] | [サポートページ][ADGH01P_SP] |
 | <a id="ADGH02K">ADGH02K</a>           | ラズベリーパイ接続　時計制御ボード“おしゃべり時計”[ラズパイ3対応]　キット                           | [製品ページ][ADGH02K_HP] | [サポートページ][ADGH02K_SP] |
 | <a id="ADGH02P">ADGH02P</a>           | ラズベリーパイ接続　時計制御ボード“おしゃべり時計”[ラズパイ3対応]　組立済み                         | [製品ページ][ADGH02P_HP] | [サポートページ][ADGH02P_SP] |
-| <a id="ADGH03K">ADGH03K</a>           | ラズベリーパイ接続　ラジオ制御ボード“赤外線リモコン対応インターネットラジオ”[ラズパイ3対応]　キット   | [製品ページ][ADGH03KHP] | [サポートページ][ADGH03K_SP] |
+| <a id="ADGH03K">ADGH03K</a>           | ラズベリーパイ接続　ラジオ制御ボード“赤外線リモコン対応インターネットラジオ”[ラズパイ3対応]　キット   | [製品ページ][ADGH03K_HP] | [サポートページ][ADGH03K_SP] |
 | <a id="ADGH03P">ADGH03P</a>           | ラズベリーパイ接続　ラジオ制御ボード“赤外線リモコン対応インターネットラジオ”[ラズパイ3対応]　組立済み  | [製品ページ][ADGH03P_HP] | [サポートページ][ADGH03P_SP] |
 | <a id="ADGH04K">ADGH04K</a>           | ラズベリーパイ接続　室内環境データ収集ボード“データロガー”[ラズパイ3対応]　キット                    | [製品ページ][ADGH04K_HP] | [サポートページ][ADGH04K_SP] |
 | <a id="ADGH04P">ADGH04P</a>           | ラズベリーパイ接続　室内環境データ収集ボード“データロガー”[ラズパイ3対応]　組立済み                  | [製品ページ][ADGH04P_HP] | [サポートページ][ADGH04P_SP] |
@@ -250,8 +250,8 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADSSMG01KM">ADSSMG01KM</a>     | リニューアル小冊子付！ ラズパイ入門ボード キット                    |  [製品ページ][ADSSMG01KM_HP] | [サポートページ][ADSSMG01KM_SP] |
 | <a id="ADSSMG01PM">ADSSMG01PM</a>     | リニューアル小冊子付！ ラズパイ入門ボード 組立済                    |  [製品ページ][ADSSMG01PM_HP] | [サポートページ][ADSSMG01PM_SP] |
 | <a id="ADSSMG02PM">ADSSMG02PM</a>     | リニューアル小冊子付！ラズパイセンサーボード                        |  [製品ページ][ADSSMG02PM_HP] | [サポートページ][ADSSMG02PM_SP] |
-| <a id="ADJTSB01">ADJTSB01</a>         | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード           |  [製品ページ][ADJTSB01_HP]   | [サポートページ][ADJTSB01_SP] |
-| <a id="ADJTSB01B">ADJTSB01B</a>       | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード 書籍同梱版 |  [製品ページ][ADJTSB01B_HP]  | [サポートページ][ADJTSB01B_SP] |
+| <a id="ADJTSB01">ADJTSB01</a>         | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード           |  [製品ページ][ADJTSB01_HP]   | - |
+| <a id="ADJTSB01B">ADJTSB01B</a>       | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード 書籍同梱版 |  [製品ページ][ADJTSB01B_HP]  | - |
 ||||
 | <a id="ADRL01">ADRL01</a> | 奇天烈電子工作 ピー音発生装置                       | [製品ページ][ADRL01_HP] | - |
 | <a id="ADRL06">ADRL06</a> | 奇天烈電子工作 LED電圧＆電流テスター                | [製品ページ][ADRL06_HP] | - |
