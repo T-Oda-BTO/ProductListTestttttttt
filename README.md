@@ -192,7 +192,10 @@ Raspberry Pi関連,ゼロワンシリーズ等
  
 
 ---
+## 雑誌連動製品
+[トップへ戻る](#productlist)
 
+---
 ## デバイス製品
 [トップへ戻る](#productlist) / [対応機器一覧表](DeviceProduct_CorrespondenceList.md)
 
@@ -267,8 +270,8 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADRSRU4">ADRSRU4</a>    | Raspberry Pi 用リレー制御拡張基板 4回路版                             | [製品ページ][_HP] | [サポートページ][_SP] |
 | <a id="ADRSRU8">ADRSRU8</a>    | Raspberry Pi 用リレー制御拡張基板 8回路版                             | [製品ページ][_HP] | [サポートページ][_SP] |
 | <a id="ADRSSSDML">ADRSSSDML</a> | 汎用USB接続7セグメントLEDコントロールボード  大7セグ+制御ボード        |  [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSSSDMM">ADRSSSDMM</a> |汎用USB接続7セグメントLEDコントロールボード 中7セグ+制御ボード          | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSSSDMS">ADRSSSDMS</a> |汎用USB接続7セグメントLEDコントロールボード  小7セグ+制御ボード         | [製品ページ][_HP] | [サポートページ][_SP] |
+| <a id="ADRSSSDMM">ADRSSSDMM</a> | 汎用USB接続7セグメントLEDコントロールボード 中7セグ+制御ボード          | [製品ページ][_HP] | [サポートページ][_SP] |
+| <a id="ADRSSSDMS">ADRSSSDMS</a> | 汎用USB接続7セグメントLEDコントロールボード  小7セグ+制御ボード         | [製品ページ][_HP] | [サポートページ][_SP] |
 | <a id="ADUBRU5">ADUBRU5</a>    | 汎用USB接続リレー制御基板 5回路版                                     | [製品ページ][_HP] | [サポートページ][_SP] |
 | <a id="ADUBRU9">ADUBRU9</a>    | 汎用USB接続リレー制御基板  9回路版                                    | [製品ページ][_HP] | [サポートページ][_SP] |
 | <a id="ADULEDB">ADULEDB</a>    | 汎用USB接続LEDコントロールボード                                      | [製品ページ][_HP] | [サポートページ][_SP] |
@@ -277,7 +280,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADRSZBM">ADRSZBM</a>   | ゼロワン 温湿度・気圧センサ拡張基板      | [製品ページ][_HP] | [サポートページ][_SP] |
 | <a id="ADRSZCM">ADRSZCM</a>   | ゼロワン クランプメータ拡張基板          | [製品ページ][_HP] | [サポートページ][_SP] |
 | <a id="ADRSZCS">ADRSZCS</a>   | ゼロワンカラーセンサ拡張基板             | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZDAC">ADRSZDAC</a> |ゼロワン ハイレゾDAC拡張基板              | [製品ページ][_HP] | [サポートページ][_SP] |
+| <a id="ADRSZDAC">ADRSZDAC</a> | ゼロワン ハイレゾDAC拡張基板             | [製品ページ][_HP] | [サポートページ][_SP] |
 | <a id="ADRSZEI">ADRSZEI</a>   | ゼロワン 電子ペーパーモニタ拡張基板       | [製品ページ][_HP] | [サポートページ][_SP] |
 | <a id="ADRSZGP">ADRSZGP</a>   | ゼロワン GPS拡張基板                    | [製品ページ][_HP] | [サポートページ][_SP] |
 | <a id="ADRSZGR">ADRSZGR</a>   | ゼロワン 9軸センサ拡張基板               | [製品ページ][_HP] | [サポートページ][_SP] |
