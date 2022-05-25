@@ -24,7 +24,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 -->
 
 ## BitTradeOneブランド
-[トップへ戻る](#productlist)
+[トップへ戻る](README.md)
   
 | 型番| 製品名 | 製品HPリンク | サポートリンク | 
 | --- | --- | --- | --- |
