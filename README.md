@@ -66,7 +66,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADSU01TB">ADSU01TB</a> | USB録音・音源再生モジュール評価ボードセット（組立済）                    | [製品ページ][_HP] | [サポートページ][_SP] |
 | <a id="ADTCS">ADTCS</a>       | 触るだけでPCをコントロール！ 「超小型USBタッチスイッチ」                 | [製品ページ][_HP] | [サポートページ][_SP] |
 | <a id="ADU2B01P">ADU2B01P</a> | USB HID Bluetooth変換アダプタキット USB2BT（組立済）                   | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADIRRVMD">ADIRRVMD</a> | 	USB赤外線リモコン受光アダプタ                                         | [製品ページ][_HP] | [サポートページ][_SP] |
+| <a id="ADIRRVMD">ADIRRVMD</a> | 	USB赤外線リモコン受光アダプタ                                        | [製品ページ][_HP] | [サポートページ][_SP] |
 
  <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
  
