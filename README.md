@@ -1,5 +1,4 @@
 [![BTO-logo](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/logo.png)](https://bit-trade-one.co.jp/)
-# ProductList
 ### ビット・トレード・ワン製品一覧表
 
 各製品HP・サポートページへのリンク一覧・検索用ページです。  
