@@ -85,8 +85,8 @@ Raspberry Pi関連,ゼロワンシリーズ等
 [AD00007P_HP]: 	https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/
 [AD00007P_SP]:
   
-[AD00008_HP_HP]: https://bit-trade-one.co.jp/product/asoovu/
-[AD00008_HP_SP]:
+[AD00008_HP]: https://bit-trade-one.co.jp/product/asoovu/
+[AD00008_SP]:
   
 [AD00009B_HP]: https://bit-trade-one.co.jp/delegaterb/
 [AD00009B_SP]:
