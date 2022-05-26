@@ -2,7 +2,7 @@
 [一覧表へ戻る](README.md)
 
 
-| 型番 | 製品名 | 対応機器・備考 | アプリ |
+| 型番 | 製品名 | 対応機器・備考 |  設定アプリ対応OS |
 | --- | --- | --- | --- | 
 | <a id="ADU2B02P">ADU2B02P</a> | USB2BT PLUS | 【入力機器】<br>iOS,android,Windows7以降,MAC OS X (Windows8.xの場合パススルー接続非対応)<br>【入力デバイス】<br>キーボード,マウス,ゲームパッド | Windows7以降  |
 | <a id="ADUSBCIM">ADUSBCIM</a> | USB CABLE CHECKER 2 |  【対応 USB インターフェイス】<br>A側：USB Type A(~3.1 Gen2),Type C(~3.2), <br>B側：Type mini B(~2.0),Type micro B(~2.0),Type C(~3.2) | - |

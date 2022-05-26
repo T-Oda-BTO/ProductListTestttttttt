@@ -2,7 +2,7 @@
 [一覧表へ戻る](README.md)
 
 
-| 型番 | 対応機器・備考 | アプリ |
+| 型番 | 対応機器・備考 | 設定アプリ対応OS |
 | --- | --- | --- | 
 | <a id="ADCQ1611AKRE">ADCQ1611AKRE</a> | | |
 | <a id="ADCQ1611APRE">ADCQ1611APRE</a> | | |
