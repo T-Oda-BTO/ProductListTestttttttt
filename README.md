@@ -64,7 +64,6 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADRVMIC">ADRVMIC</a>   | REVIVE USB †MICRO†                                                  | [製品ページ][ADRVMIC_HP] | [サポートページ][ADRVMIC_SP] |
 | <a id="ADSU01">ADSU01</a>     | USB録音・音源再生モジュール                                           | [製品ページ][ADSU01_HP] | [サポートページ][ADSU01_SP] |
 | <a id="ADSU01TB">ADSU01TB</a> | USB録音・音源再生モジュール評価ボードセット（組立済）                    | [製品ページ][ADSU01TB_HP] | [サポートページ][ADSU01TB_SP] |
-| <a id="ADTCS">ADTCS</a>       | 触るだけでPCをコントロール！ 「超小型USBタッチスイッチ」                 | [製品ページ][ADTCS_HP] | [サポートページ][ADTCS_SP] |
 | <a id="ADU2B01P">ADU2B01P</a> | USB HID Bluetooth変換アダプタキット USB2BT（組立済）                   | [製品ページ][ADU2B01P_HP] | [サポートページ][ADU2B01P_SP] |
 
 
@@ -97,10 +96,10 @@ Raspberry Pi関連,ゼロワンシリーズ等
 [AD00011_HP]: https://bit-trade-one.co.jp/product/bitferrous/bittouch-2/
 [AD00011_SP]: https://github.com/bit-trade-one/AD00011_BitTouch
   
-[AD00012_HP]: https://bit-trade-one.co.jp/product/asoovu/
+[AD00012_HP]: https://bit-trade-one.co.jp/product/asoovu/ad00012/
 [AD00012_SP]: https://github.com/bit-trade-one/AD00012_ASOOVU_USB_thermometer_kit
   
-[AD00013_HP]: https://bit-trade-one.co.jp/product/asoovu/
+[AD00013_HP]: https://bit-trade-one.co.jp/product/asoovu/ad00013/
 [AD00013_SP]: https://github.com/bit-trade-one/AD00013_ASOOVU_USB_Digital_I-O_kit
   
 [AD00016_HP]: https://bit-trade-one.co.jp/product/assemblydisk/ad00016/
@@ -180,9 +179,6 @@ Raspberry Pi関連,ゼロワンシリーズ等
   
 [ADSU01TB_HP]: https://bit-trade-one.co.jp/product/module/adsu01tb/
 [ADSU01TB_SP]: https://github.com/bit-trade-one/ADSU01TB_Sound_Player_Module_reference_board
-  
-[ADTCS_HP]: https://bit-trade-one.co.jp/adtcs/
-[ADTCS_SP]: https://github.com/bit-trade-one/ADTCS
   
 [ADU2B01P_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adu2b01/
 [ADU2B01P_SP]: https://github.com/bit-trade-one/ADU2BT01_USB2BT_Kit
