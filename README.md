@@ -205,7 +205,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADCQ1708DKRE">ADCQ1708DKRE</a> | ラズベリー・パイ対応！レベル測定ボード　キット                           | [製品ページ][ADCQ1708DKRE_HP] | [サポートページ][ADCQ1708DKRE_SP] |
 | <a id="ADCQ1708DPRE">ADCQ1708DPRE</a> | ラズベリー・パイ対応！レベル測定ボード　組立済                           | [製品ページ][ADCQ1708DPRE_HP] | [サポートページ][ADCQ1708DPRE_SP] |
 | <a id="ADCQ1805K">ADCQ1805K</a>       | IoT時代のマイコンC言語入門ボード"PICoT"（ピコット） キット               | [製品ページ][ADCQ1805K_HP] | [サポートページ][ADCQ1805K_SP] |
-| <a id="ADCQ1805OP">ADCQ1805OP</a>     | IoT時代のマイコンC言語入門ボード"PICoT"（ピコット） オプションボード      | [製品ページ][ADCQ1805OP_HP] | [サポートページ][ADCQ1805OP_SP] |
+| <a id="ADCQ1805OP">ADCQ1805OP</a>     | IoT時代のマイコンC言語入門ボード"PICoT"（ピコット） オプションボード      | [製品ページ][ADCQ1805OP_HP] | - |
 | <a id="ADCQ1805P">ADCQ1805P</a>       | IoT時代のマイコンC言語入門ボード"PICoT"（ピコット） 組立済               | [製品ページ][ADCQ1805P_HP] | [サポートページ][ADCQ1805P_SP] |
 | <a id="ADCQ1904">ADCQ1904</a>         | ラズパイ用ハードウェア・アクセラレート基板"PiSoC"                        | [製品ページ][ADCQ1904_HP] | [サポートページ][ADCQ1904_SP] |
 | <a id="ADCQ1905K">ADCQ1905K</a>       | ラズパイ拡張基板 IoT 実験コンピュータ "Apple Pi" 部品セット              | [製品ページ][ADCQ1905K_HP] | [サポートページ][ADCQ1905K_SP] |
@@ -299,7 +299,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 [ADCQ1805K_SP]: https://github.com/bit-trade-one/ADCQ1805P_PICoT
   
 [ADCQ1805OP_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcq1805p/
-[ADCQ1805OP_SP]: https://github.com/bit-trade-one/ADCQ1805P_PICoT
+
   
 [ADCQ1805P_HP]: https://bit-trade-one.co.jp/product/assemblydisk/adcq1805p/
 [ADCQ1805P_SP]: https://github.com/bit-trade-one/ADCQ1805P_PICoT
