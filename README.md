@@ -22,7 +22,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 -->
 
 ## BitTradeOneブランド
-[トップへ戻る](README.md)
+[トップへ戻る](README.md) / [対応機器一覧表](BTOADProduct_CorrespondenceList.md)
   
 | 型番| 製品名 | 製品HPリンク | サポートリンク | 
 | --- | --- | --- | --- |
@@ -190,7 +190,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
 
 ---
 ## 雑誌連動製品
-[トップへ戻る](README.md)
+[トップへ戻る](README.md) / [対応機器一覧表](MagazineProduct_CorrespondenceList.md)
 
 | 型番| 製品名 | 製品HPリンク | サポートリンク | 
 | --- | --- | --- | --- |
@@ -493,179 +493,173 @@ Raspberry Pi関連,ゼロワンシリーズ等
 
 | 型番| 製品名 | 製品HPリンク | サポートリンク | 
 | --- | --- | --- | --- |
-| <a id="ADAUDIR">ADAUDIR</a>   | アルディーノ専用 学習リモコン基板                                      | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSRTC">ADRSRTC</a>   | ラズベリーパイ専用リアルタイムクロック拡張ボード                         | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADICGIR">ADICGIR</a>   | IchigoJam専用学習リモコン基板                                         | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADJTSB01">ADJTSB01</a>  | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード               | [製品ページ][_HP] | - |
-| <a id="ADJTSB01B">ADJTSB01B</a> | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード 書籍同梱版    | [製品ページ][_HP] | - |
-| <a id="ADMU32F">ADMU32F</a>    | WiFi対応！ロボット・工作キットを拡張！ 多機能リモコンボード「Duke32AIO」 | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRPTB8C">ADRPTB8C</a>  | ラズベリーパイ専用 汎用電動機制御基板                                  | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSADC">ADRSADC</a>    | Raspberry Pi 用Arduino シールド変換基板                              | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSBB">ADRSBB</a>      | Raspberry Pi 用ブレッドボード基板                                     | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSEZCO">ADRSEZCO</a>  | Raspberry Pi 用端子台出力基板                                        | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSIR">ADRSIR</a>      | ラズベリー・パイ専用 学習リモコン基板                                  | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSRU2">ADRSRU2</a>    | Raspberry Pi 用リレー制御拡張基板 2回路版                             | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSRU4">ADRSRU4</a>    | Raspberry Pi 用リレー制御拡張基板 4回路版                             | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSRU8">ADRSRU8</a>    | Raspberry Pi 用リレー制御拡張基板 8回路版                             | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSSSDML">ADRSSSDML</a> | 汎用USB接続7セグメントLEDコントロールボード  大7セグ+制御ボード        |  [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSSSDMM">ADRSSSDMM</a> | 汎用USB接続7セグメントLEDコントロールボード 中7セグ+制御ボード          | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSSSDMS">ADRSSSDMS</a> | 汎用USB接続7セグメントLEDコントロールボード  小7セグ+制御ボード         | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADUBRU5">ADUBRU5</a>    | 汎用USB接続リレー制御基板 5回路版                                     | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADUBRU9">ADUBRU9</a>    | 汎用USB接続リレー制御基板  9回路版                                    | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADULEDB">ADULEDB</a>    | 汎用USB接続LEDコントロールボード                                      | [製品ページ][_HP] | [サポートページ][_SP] |
+| <a id="ADAUDIR">ADAUDIR</a>   | アルディーノ専用 学習リモコン基板                                      | [製品ページ][ADAUDIR_HP] | [サポートページ][ADAUDIR_SP] |
+| <a id="ADRSRTC">ADRSRTC</a>   | ラズベリーパイ専用リアルタイムクロック拡張ボード                         | [製品ページ][ADRSRTC_HP] | [サポートページ][ADRSRTC_SP] |
+| <a id="ADICGIR">ADICGIR</a>   | IchigoJam専用学習リモコン基板                                         | [製品ページ][ADICGIR_HP] | [サポートページ][ADICGIR_SP] |
+| <a id="ADJTSB01">ADJTSB01</a>  | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード               | [製品ページ][ADJTSB01_HP] | - |
+| <a id="ADJTSB01B">ADJTSB01B</a> | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード 書籍同梱版    | [製品ページ][ADJTSB01B_HP] | - |
+| <a id="ADMU32F">ADMU32F</a>    | WiFi対応！ロボット・工作キットを拡張！ 多機能リモコンボード「Duke32AIO」 | [製品ページ][ADMU32F_HP] | [サポートページ][ADMU32F_SP] |
+| <a id="ADRPTB8C">ADRPTB8C</a>  | ラズベリーパイ専用 汎用電動機制御基板                                  | [製品ページ][ADRPTB8C_HP] | [サポートページ][ADRPTB8C_SP] |
+| <a id="ADRSADC">ADRSADC</a>    | Raspberry Pi 用Arduino シールド変換基板                              | [製品ページ][ADRSADC_HP] | [サポートページ][ADRSADC_SP] |
+| <a id="ADRSBB">ADRSBB</a>      | Raspberry Pi 用ブレッドボード基板                                     | [製品ページ][ADRSBB_HP] | [サポートページ][ADRSBB_SP] |
+| <a id="ADRSEZCO">ADRSEZCO</a>  | Raspberry Pi 用端子台出力基板                                        | [製品ページ][ADRSEZCO_HP] | [サポートページ][ADRSEZCO_SP] |
+| <a id="ADRSIR">ADRSIR</a>      | ラズベリー・パイ専用 学習リモコン基板                                  | [製品ページ][ADRSIR_HP] | [サポートページ][ADRSIR_SP] |
+| <a id="ADRSRU2">ADRSRU2</a>    | Raspberry Pi 用リレー制御拡張基板 2回路版                             | [製品ページ][ADRSRU2_HP] | [サポートページ][ADRSRU2_SP] |
+| <a id="ADRSRU4">ADRSRU4</a>    | Raspberry Pi 用リレー制御拡張基板 4回路版                             | [製品ページ][ADRSRU4_HP] | [サポートページ][ADRSRU4_SP] |
+| <a id="ADRSRU8">ADRSRU8</a>    | Raspberry Pi 用リレー制御拡張基板 8回路版                             | [製品ページ][ADRSRU8_HP] | [サポートページ][ADRSRU8_SP] |
+| <a id="ADRSSSDML">ADRSSSDML</a> | 汎用USB接続7セグメントLEDコントロールボード  大7セグ+制御ボード        |  [製品ページ][ADRSSSDML_HP] | [サポートページ][ADRSSSDML_SP] |
+| <a id="ADRSSSDMM">ADRSSSDMM</a> | 汎用USB接続7セグメントLEDコントロールボード 中7セグ+制御ボード          | [製品ページ][ADRSSSDMM_HP] | [サポートページ][ADRSSSDMM_SP] |
+| <a id="ADRSSSDMS">ADRSSSDMS</a> | 汎用USB接続7セグメントLEDコントロールボード  小7セグ+制御ボード         | [製品ページ][ADRSSSDMS_HP] | [サポートページ][ADRSSSDMS_SP] |
+| <a id="ADUBRU5">ADUBRU5</a>    | 汎用USB接続リレー制御基板 5回路版                                     | [製品ページ][ADUBRU5_HP] | [サポートページ][ADUBRU5_SP] |
+| <a id="ADUBRU9">ADUBRU9</a>    | 汎用USB接続リレー制御基板  9回路版                                    | [製品ページ][ADUBRU9_HP] | [サポートページ][ADUBRU9_SP] |
+| <a id="ADULEDB">ADULEDB</a>    | 汎用USB接続LEDコントロールボード                                      | [製品ページ][ADULEDB_HP] | [サポートページ][ADULEDB_SP] |
 ||||
-| <a id="ADRSZBB">ADRSZBB</a>   | ラズベリーパイ専用GPIOスタック拡張ボード | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZBM">ADRSZBM</a>   | ゼロワン 温湿度・気圧センサ拡張基板      | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZCM">ADRSZCM</a>   | ゼロワン クランプメータ拡張基板          | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZCS">ADRSZCS</a>   | ゼロワンカラーセンサ拡張基板             | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZDAC">ADRSZDAC</a> | ゼロワン ハイレゾDAC拡張基板             | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZEI">ADRSZEI</a>   | ゼロワン 電子ペーパーモニタ拡張基板       | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZGP">ADRSZGP</a>   | ゼロワン GPS拡張基板                    | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZGR">ADRSZGR</a>   | ゼロワン 9軸センサ拡張基板               | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZHB">ADRSZHB</a>   | ゼロワン USB拡張基板                    | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZIRR">ADRSZIRR</a> | ゼロワン 赤外線受信拡張基板              | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZIRS">ADRSZIRS</a> | ゼロワン 赤外線リモコン拡張基板          | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZLD">ADRSZLD</a>   | ゼロワン OLED拡張基板                   | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZLX">ADRSZLX</a>   | ゼロワン 明るさセンサ拡張基板            | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZOD">ADRSZOD</a>   | ゼロワン 臭気センサ拡張基板              | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZPY">ADRSZPY</a>   | ゼロワン 焦電型赤外線センサ拡張基板       | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZRE">ADRSZRE</a>   | ゼロワン ロータリーエンコーダ拡張基板     | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZRU">ADRSZRU</a>   | ゼロワン リレー回路拡張基板              | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZSB">ADRSZSB</a>   | ゼロワン サーボ拡張基板                  | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZSN">ADRSZSN</a>   | ゼロワン ソレノイド拡張基板              | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZSW">ADRSZSW</a>   | ゼロワン 照光スイッチ拡張基板             | [製品ページ][_HP] | [サポートページ][_SP] |
-| <a id="ADRSZUP">ADRSZUP</a>   | ゼロワン 電源保持基板                    | [製品ページ][_HP] | [サポートページ][_SP] |
+| <a id="ADRSZBB">ADRSZBB</a>   | ラズベリーパイ専用GPIOスタック拡張ボード | [製品ページ][ADRSZBB_HP] | [サポートページ][ADRSZBB_SP] |
+| <a id="ADRSZBM">ADRSZBM</a>   | ゼロワン 温湿度・気圧センサ拡張基板      | [製品ページ][ADRSZBM_HP] | [サポートページ][ADRSZBM_SP] |
+| <a id="ADRSZCM">ADRSZCM</a>   | ゼロワン クランプメータ拡張基板          | [製品ページ][ADRSZCM_HP] | [サポートページ][ADRSZCM_SP] |
+| <a id="ADRSZCS">ADRSZCS</a>   | ゼロワンカラーセンサ拡張基板             | [製品ページ][ADRSZCS_HP] | [サポートページ][ADRSZCS_SP] |
+| <a id="ADRSZDAC">ADRSZDAC</a> | ゼロワン ハイレゾDAC拡張基板             | [製品ページ][ADRSZDAC_HP] | [サポートページ][ADRSZDAC_SP] |
+| <a id="ADRSZEI">ADRSZEI</a>   | ゼロワン 電子ペーパーモニタ拡張基板       | [製品ページ][ADRSZEI_HP] | [サポートページ][ADRSZEI_SP] |
+| <a id="ADRSZGP">ADRSZGP</a>   | ゼロワン GPS拡張基板                    | [製品ページ][ADRSZGP_HP] | [サポートページ][ADRSZGP_SP] |
+| <a id="ADRSZGR">ADRSZGR</a>   | ゼロワン 9軸センサ拡張基板               | [製品ページ][ADRSZGR_HP] | [サポートページ][ADRSZGR_SP] |
+| <a id="ADRSZHB">ADRSZHB</a>   | ゼロワン USB拡張基板                    | [製品ページ][ADRSZHB_HP] | [サポートページ][ADRSZHB_SP] |
+| <a id="ADRSZIRR">ADRSZIRR</a> | ゼロワン 赤外線受信拡張基板              | [製品ページ][ADRSZIRR_HP] | [サポートページ][ADRSZIRR_SP] |
+| <a id="ADRSZIRS">ADRSZIRS</a> | ゼロワン 赤外線リモコン拡張基板          | [製品ページ][ADRSZIRS_HP] | [サポートページ][ADRSZIRS_SP] |
+| <a id="ADRSZLD">ADRSZLD</a>   | ゼロワン OLED拡張基板                   | [製品ページ][ADRSZLD_HP] | [サポートページ][ADRSZLD_SP] |
+| <a id="ADRSZLX">ADRSZLX</a>   | ゼロワン 明るさセンサ拡張基板            | [製品ページ][ADRSZLX_HP] | [サポートページ][ADRSZLX_SP] |
+| <a id="ADRSZOD">ADRSZOD</a>   | ゼロワン 臭気センサ拡張基板              | [製品ページ][ADRSZOD_HP] | [サポートページ][ADRSZOD_SP] |
+| <a id="ADRSZPY">ADRSZPY</a>   | ゼロワン 焦電型赤外線センサ拡張基板       | [製品ページ][ADRSZPY_HP] | [サポートページ][ADRSZPY_SP] |
+| <a id="ADRSZRE">ADRSZRE</a>   | ゼロワン ロータリーエンコーダ拡張基板     | [製品ページ][ADRSZRE_HP] | [サポートページ][ADRSZRE_SP] |
+| <a id="ADRSZRU">ADRSZRU</a>   | ゼロワン リレー回路拡張基板              | [製品ページ][ADRSZRU_HP] | [サポートページ][ADRSZRU_SP] |
+| <a id="ADRSZSB">ADRSZSB</a>   | ゼロワン サーボ拡張基板                  | [製品ページ][ADRSZSB_HP] | [サポートページ][ADRSZSB_SP] |
+| <a id="ADRSZSN">ADRSZSN</a>   | ゼロワン ソレノイド拡張基板              | [製品ページ][ADRSZSN_HP] | [サポートページ][ADRSZSN_SP] |
+| <a id="ADRSZSW">ADRSZSW</a>   | ゼロワン 照光スイッチ拡張基板             | [製品ページ][ADRSZSW_HP] | [サポートページ][ADRSZSW_SP] |
+| <a id="ADRSZUP">ADRSZUP</a>   | ゼロワン 電源保持基板                    | [製品ページ][ADRSZUP_HP] | [サポートページ][ADRSZUP_SP] |
 
 <!-- 参照形式によるリンク 参考https://hail2u.net/blog/coding/markdown-reference-style-links.html -->
 
-[_HP]: 
-[_SP]:
+[ADAUDIR_HP]: https://bit-trade-one.co.jp/product/module/adaudir/ 
+[ADAUDIR_SP]: https://github.com/bit-trade-one/ADAUDIR_Arduino_IR_Remocon
  
-[_HP]: 
-[_SP]:
+[ADRSRTC_HP]: https://bit-trade-one.co.jp/adrsrtc
+[ADRSRTC_SP]: https://github.com/bit-trade-one/ADRSRTC-RTC-HAT
  
-[_HP]: 
-[_SP]:
+[ADICGIR_HP]: https://bit-trade-one.co.jp/adicgir/
+[ADICGIR_SP]: https://github.com/bit-trade-one/ADICGIR
  
-[_HP]: 
-[_SP]:
+[ADJTSB01_HP]: https://bit-trade-one.co.jp/adjtsb01/
+
  
-[_HP]: 
-[_SP]:
+[ADJTSB01B_HP]:https://bit-trade-one.co.jp/adjtsb01/
+
  
-[_HP]: 
-[_SP]:
+[ADMU32F_HP]: https://bit-trade-one.co.jp/admu32f/
+[ADMU32F_SP]: https://github.com/bit-trade-one/ADMU32F-Duke32
  
-[_HP]: 
-[_SP]:
+[ADRPTB8C_HP]: https://bit-trade-one.co.jp/product/module/adrptb8c/
+[ADRPTB8C_SP]: https://github.com/bit-trade-one/ADRPT8C_Generic_Motor_Controller
  
-[_HP]: 
-[_SP]:
+[ADRSADC_HP]: https://bit-trade-one.co.jp/product/module/adrsadc/
+[ADRSADC_SP]: https://github.com/bit-trade-one/ADRSADC-RaspberryPi-ArduinoShield-Converter
  
-[_HP]: 
-[_SP]:
+[ADRSBB_HP]: https://bit-trade-one.co.jp/product/module/adrsbb/
+[ADRSBB_SP]: https://github.com/bit-trade-one/ADRSBB-RaspberryPi-breadboard
  
-[_HP]: 
-[_SP]:
+[ADRSEZCO_HP]: https://bit-trade-one.co.jp/product/module/adrsezco/
+[ADRSEZCO_SP]: https://github.com/bit-trade-one/ADRSEZCO-RaspberryPi-Terminal-board
  
-[_HP]: 
-[_SP]:
+[ADRSIR_HP]: https://bit-trade-one.co.jp/product/module/adrsir/
+[ADRSIR_SP]: https://github.com/bit-trade-one/ADRSIR_RaspberryPi_IR_Leaning_Controller
  
-[_HP]: 
-[_SP]:
+[ADRSRU2_HP]: https://bit-trade-one.co.jp/product/module/adrsru/
+[ADRSRU2_SP]: https://github.com/bit-trade-one/ADRSRU-RaspberryPi-Relay-Unit
  
-[_HP]: 
-[_SP]:
+[ADRSRU4_HP]: https://bit-trade-one.co.jp/product/module/adrsru/
+[ADRSRU4_SP]: https://github.com/bit-trade-one/ADRSRU-RaspberryPi-Relay-Unit
  
-[_HP]: 
-[_SP]:
+[ADRSRU8_HP]: https://bit-trade-one.co.jp/product/module/adrsru/
+[ADRSRU8_SP]: https://github.com/bit-trade-one/ADRSRU-RaspberryPi-Relay-Unit
  
-[_HP]: 
-[_SP]:
+[ADRSSSDML_HP]:	https://bit-trade-one.co.jp/adrsss/
+[ADRSSSDML_SP]: https://github.com/bit-trade-one/ADRSSS-7segLED
  
-[_HP]: 
-[_SP]:
+[ADRSSSDMM_HP]: https://bit-trade-one.co.jp/adrsss/
+[ADRSSSDMM_SP]: https://github.com/bit-trade-one/ADRSSS-7segLED
  
-[_HP]: 
-[_SP]:
+[ADRSSSDMS_HP]:	https://bit-trade-one.co.jp/adrsss/
+[ADRSSSDMS_SP]: https://github.com/bit-trade-one/ADRSSS-7segLED
  
-[_HP]: 
-[_SP]:
+[ADUBRU5_HP]: https://bit-trade-one.co.jp/adubru/
+[ADUBRU5_SP]: https://github.com/bit-trade-one/ADUBRU-RelayControll
  
-[_HP]: 
-[_SP]:
+[ADUBRU9_HP]: https://bit-trade-one.co.jp/adubru/
+[ADUBRU9_SP]: https://github.com/bit-trade-one/ADUBRU-RelayControll
  
-[_HP]: 
-[_SP]:
+[ADULEDB_HP]: https://bit-trade-one.co.jp/aduledb/
+[ADULEDB_SP]: https://github.com/bit-trade-one/ADULEDB-USBControll
  
-[_HP]: 
-[_SP]:
+[ADRSZBB_HP]: https://bit-trade-one.co.jp/adrszbb/
+[ADRSZBB_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZBM_HP]: https://bit-trade-one.co.jp/product/module/adrszbm/
+[ADRSZBM_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZCM_HP]: https://bit-trade-one.co.jp/adrszcm/
+[ADRSZCM_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZCS_HP]: https://bit-trade-one.co.jp/adrszcs/
+[ADRSZCS_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZDAC_HP]: https://bit-trade-one.co.jp/adrszdac/
+[ADRSZDAC_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZEI_HP]: https://bit-trade-one.co.jp/adrszel/
+[ADRSZEI_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZGP_HP]: https://bit-trade-one.co.jp/adrszgp/
+[ADRSZGP_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZGR_HP]: https://bit-trade-one.co.jp/adrszgr/
+[ADRSZGR_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZHB_HP]: https://bit-trade-one.co.jp/adrszhb/
+[ADRSZHB_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZIRR_HP]: https://bit-trade-one.co.jp/product/module/adrszirr/
+[ADRSZIRR_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZIRS_HP]: 	https://bit-trade-one.co.jp/adrszirs/
+[ADRSZIRS_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZLD_HP]: https://bit-trade-one.co.jp/adrszld/
+[ADRSZLD_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZLX_HP]:	https://bit-trade-one.co.jp/product/module/adrszlx/
+[ADRSZLX_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZOD_HP]: https://bit-trade-one.co.jp/adrszod/
+[ADRSZOD_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZPY_HP]: https://bit-trade-one.co.jp/product/module/adrszpy/
+[ADRSZPY_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZRE_HP]: https://bit-trade-one.co.jp/product/module/adrszre/
+[ADRSZRE_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZRU_HP]: https://bit-trade-one.co.jp/product/module/adrszru/
+[ADRSZRU_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZSB_HP]: https://bit-trade-one.co.jp/product/module/adrszsb/
+[ADRSZSB_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZSN_HP]: https://bit-trade-one.co.jp/product/module/adrszsn/
+[ADRSZSN_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
+[ADRSZSW_HP]: https://bit-trade-one.co.jp/product/module/adrszsw/
+[ADRSZSW_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
-[_HP]: 
-[_SP]:
- 
-[_HP]: 
-[_SP]:
- 
-[_HP]: 
-[_SP]:
+[ADRSZUP_HP]: https://bit-trade-one.co.jp/adrszup/
+[ADRSZUP_SP]: https://github.com/bit-trade-one/RasPi-Zero-One-Series
  
  
 ---
