@@ -493,8 +493,6 @@ Raspberry Pi関連,ゼロワンシリーズ等
 | <a id="ADAUDIR">ADAUDIR</a>   | アルディーノ専用 学習リモコン基板                                      | [製品ページ][ADAUDIR_HP] | [サポートページ][ADAUDIR_SP] |
 | <a id="ADRSRTC">ADRSRTC</a>   | ラズベリーパイ専用リアルタイムクロック拡張ボード                         | [製品ページ][ADRSRTC_HP] | [サポートページ][ADRSRTC_SP] |
 | <a id="ADICGIR">ADICGIR</a>   | IchigoJam専用学習リモコン基板                                         | [製品ページ][ADICGIR_HP] | [サポートページ][ADICGIR_SP] |
-| <a id="ADJTSB01">ADJTSB01</a>  | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード               | [製品ページ][ADJTSB01_HP] | - |
-| <a id="ADJTSB01B">ADJTSB01B</a> | シェルスクリプトマガジン連動！Jetson ＆ Pi 電力測定ボード 書籍同梱版    | [製品ページ][ADJTSB01B_HP] | - |
 | <a id="ADMU32F">ADMU32F</a>    | WiFi対応！ロボット・工作キットを拡張！ 多機能リモコンボード「Duke32AIO」 | [製品ページ][ADMU32F_HP] | [サポートページ][ADMU32F_SP] |
 | <a id="ADRPTB8C">ADRPTB8C</a>  | ラズベリーパイ専用 汎用電動機制御基板                                  | [製品ページ][ADRPTB8C_HP] | [サポートページ][ADRPTB8C_SP] |
 | <a id="ADRSADC">ADRSADC</a>    | Raspberry Pi 用Arduino シールド変換基板                              | [製品ページ][ADRSADC_HP] | [サポートページ][ADRSADC_SP] |
@@ -543,13 +541,7 @@ Raspberry Pi関連,ゼロワンシリーズ等
  
 [ADICGIR_HP]: https://bit-trade-one.co.jp/adicgir/
 [ADICGIR_SP]: https://github.com/bit-trade-one/ADICGIR
- 
-[ADJTSB01_HP]: https://bit-trade-one.co.jp/adjtsb01/
 
- 
-[ADJTSB01B_HP]:https://bit-trade-one.co.jp/adjtsb01/
-
- 
 [ADMU32F_HP]: https://bit-trade-one.co.jp/admu32f/
 [ADMU32F_SP]: https://github.com/bit-trade-one/ADMU32F-Duke32
  
