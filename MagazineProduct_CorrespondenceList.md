@@ -45,24 +45,24 @@
 | <a id="ADGH184APC">ADGH184APC</a>     | - | - | Arduino IDE(Win・Mac・Linux)) | 
 | <a id="ADGH184DPC">ADGH184DPC</a>     | - | - | Arduino IDE(Win・Mac・Linux)) | 
 |||| | 
-| <a id="ADRPM1801C">ADRPM1801C</a>     | | | | 
-| <a id="ADRPM1901KB">ADRPM1901KB</a>   | | | | 
-| <a id="ADRPM1901PB">ADRPM1901PB</a>   | | | | 
-| <a id="ADRPM1902K">ADRPM1902K</a>     | | | | 
-| <a id="ADRPM1902P">ADRPM1902P</a>     | | | | 
-| <a id="ADRPM1903K">ADRPM1903K</a>     | | | | 
-| <a id="ADRPM1903P">ADRPM1903P</a>     | | | | 
-| <a id="ADRPM2001K">ADRPM2001K</a>     | | | | 
-| <a id="ADRPM2001P">ADRPM2001P</a>     | | | | 
-| <a id="ADRPM5122P">ADRPM5122P</a>     | | | | 
+| <a id="ADRPM1801C">ADRPM1801C</a>     | - | ADRPM1902に接続 | - | 
+| <a id="ADRPM1901KB">ADRPM1901KB</a>   | - | Raspberry Pi B+ / 2B / 3B / 3B+ / 4 | - | 
+| <a id="ADRPM1901PB">ADRPM1901PB</a>   | - | Raspberry Pi B+ / 2B / 3B / 3B+ / 4 | - | 
+| <a id="ADRPM1902K">ADRPM1902K</a>     | Raspbian | Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B/Raspberry Pi 3 Model B+ | - | 
+| <a id="ADRPM1902P">ADRPM1902P</a>     | Raspbian | Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B/Raspberry Pi 3 Model B+ | - | 
+| <a id="ADRPM1903K">ADRPM1903K</a>     | - | Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B & B+ | - | 
+| <a id="ADRPM1903P">ADRPM1903P</a>     | - | Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B & B+ | - | 
+| <a id="ADRPM2001K">ADRPM2001K</a>     | - | Raspberry Pi B+ / 2B / 3B / 3B+ / 4 | - | 
+| <a id="ADRPM2001P">ADRPM2001P</a>     | - | Raspberry Pi B+ / 2B / 3B / 3B+ / 4 | - | 
+| <a id="ADRPM5122P">ADRPM5122P</a>     | - | ADRPM1902に接続 | - | 
 |||| | 
-| <a id="ADSSMG01KM">ADSSMG01KM</a>     | | | | 
-| <a id="ADSSMG01PM">ADSSMG01PM</a>     | | | | 
-| <a id="ADSSMG02PM">ADSSMG02PM</a>     | | | | 
-| <a id="ADJTSB01">ADJTSB01</a>         | | | | 
-| <a id="ADJTSB01B">ADJTSB01B</a>       | | | | 
+| <a id="ADSSMG01KM">ADSSMG01KM</a>     | - | Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B | - | 
+| <a id="ADSSMG01PM">ADSSMG01PM</a>     | - | Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B | - | 
+| <a id="ADSSMG02PM">ADSSMG02PM</a>     | - | Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B／Raspberry Pi 3 Model B+ | - | 
+| <a id="ADJTSB01">ADJTSB01</a>         | - | Jetson Nano <br>Development Kit / Development Kit B01  / 2GB Development Kit<br><br>Raspberry Pi<br>Raspberry Pi Zero / Zero W / 2B / 3B / 3B+ / 4B| - | 
+| <a id="ADJTSB01B">ADJTSB01B</a>       | - | Jetson Nano <br>Development Kit / Development Kit B01  / 2GB Development Kit<br><br>Raspberry Pi<br>Raspberry Pi Zero / Zero W / 2B / 3B / 3B+ / 4B| - | 
 |||| | 
-| <a id="ADRL01">ADRL01</a> | | | | 
-| <a id="ADRL06">ADRL06</a> | | | | 
-| <a id="ADRL07">ADRL07</a> | | | | 
-| <a id="ADRL12">ADRL12</a> | | | | 
+| <a id="ADRL01">ADRL01</a> | - | 単独動作 006P型乾電池x1個| - | 
+| <a id="ADRL06">ADRL06</a> | - | 単独動作 単3乾電池 4本 | - | 
+| <a id="ADRL07">ADRL07</a> | - | 単独動作 006P型乾電池x1個 | - | 
+| <a id="ADRL12">ADRL12</a> | - | 単独動作 12V 5インチ電源コネクタより供給 | - | 
